@@ -1,0 +1,4 @@
+2016-03-14 12:42:39,546 +++ Creating events table in SQLite3 database.
+2016-03-14 12:42:39,845 --- Error inserting event into database:
+2016-03-14 12:42:39,845 INSERT INTO events values(NULL,'Security','',
+2016-03-14 12:42:40,115 +++ Closing database.

@@ -1,0 +1,186 @@
+========================================================
+==              riffle log file                       ==
+========================================================
+== - Fighting Internet evil one computer at a time -  ==
+========================================================
+2013-03-06 11:31:15: Starting to riffle this computer on a hunt for evil.
+2013-03-06 11:31:15: [+] Creating riffle working folder structure.
+2013-03-06 11:31:15: [+] Riffle folder structure created.
+2013-03-06 11:31:15: [+] Extracting the $MFT.
+2013-03-06 11:31:15: [+] NTFSVolumeLive::Populate() - strVolume parameter: C:
+2013-03-06 11:31:15: [+] Copying $MFT to C:\temp\riffle\MFT
+2013-03-06 11:31:20: [+] Extracting the Windows Prefetch folder.
+2013-03-06 11:31:20: [+] There are 123 prefetch files on this host.
+2013-03-06 11:31:20: [+] Copying prefetch file 7Z920.EXE-007B2DDA.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:20: [+] Copying prefetch file 7ZA.EXE-11290927.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:20: [+] Copying prefetch file 7ZA.EXE-1970B727.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:21: [+] Copying prefetch file 7ZA.EXE-26FC69CB.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:21: [+] Copying prefetch file 7ZG.EXE-04CCF0C9.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:21: [+] Copying prefetch file ADBERDR950_EN_US.EXE-2C262FC4.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:21: [+] Copying prefetch file ADOBEARM.EXE-2805D052.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:21: [+] Copying prefetch file ALG.EXE-0F138680.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:21: [+] Copying prefetch file AT.EXE-2770DD18.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:21: [+] Copying prefetch file AUTORUNSC.EXE-08AAC072.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:21: [+] Copying prefetch file CMD.EXE-087B4001.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:21: [+] Copying prefetch file CONTROL.EXE-013DBFB5.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:21: [+] Copying prefetch file CSRSS.EXE-12B63473.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:21: [+] Copying prefetch file DEFRAG.EXE-273F131E.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:21: [+] Copying prefetch file DFRGNTFS.EXE-269967DF.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:21: [+] Copying prefetch file DUMPCAP.EXE-241FFA5D.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:21: [+] Copying prefetch file DUMPREP.EXE-1B46F901.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:21: [+] Copying prefetch file DWWIN.EXE-30875ADC.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:21: [+] Copying prefetch file DYN.EXE-3566FF14.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:21: [+] Copying prefetch file EXPLORER.EXE-082F38A9.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:21: [+] Copying prefetch file FIND.EXE-0EC32F1E.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:21: [+] Copying prefetch file GCCHECK.EXE-15AE7810.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:21: [+] Copying prefetch file GTBCHECK.EXE-2B4B1D34.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:21: [+] Copying prefetch file HELPSVC.EXE-2878DDA2.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:21: [+] Copying prefetch file IE4UINIT.EXE-169A5A39.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:21: [+] Copying prefetch file IEXPLORE.EXE-27122324.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:21: [+] Copying prefetch file INSTALL.EXE-00FDBBC3.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:21: [+] Copying prefetch file INSTALL_READER8_EN_GTBD_AIH.E-0B576397.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:21: [+] Copying prefetch file INSTALL_READER8_EN_GTBD_AIH.E-32669825.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:21: [+] Copying prefetch file INSTALL_READER9_EN_GTBD_CHRD_-01DD252F.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:21: [+] Copying prefetch file INSTALL_READER9_EN_GTBD_CHRD_-1DD52C0E.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:21: [+] Copying prefetch file IPCONFIG.EXE-2395F30B.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:21: [+] Copying prefetch file IRAQ SIGNS A CONTRACT TO REHA-035A68CE.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:21: [+] Copying prefetch file LOGON.SCR-151EFAEA.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:21: [+] Copying prefetch file LOGONUI.EXE-0AF22957.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:22: [+] Copying prefetch file LSASS.EXE-20DB6D1B.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:22: [+] Copying prefetch file MMC.EXE-22FA564C.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:22: [+] Copying prefetch file MORE.COM-32DCB7E4.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:22: [+] Copying prefetch file MSIEXEC.EXE-2F8A8CAE.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:22: [+] Copying prefetch file MSOOBE.EXE-30411B02.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:22: [+] Copying prefetch file NET.EXE-01A53C2F.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:22: [+] Copying prefetch file NET1.EXE-029B9DB4.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:22: [+] Copying prefetch file NETSH.EXE-085CFFDE.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:22: [+] Copying prefetch file NETSTAT.EXE-2B2B4428.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:22: [+] Copying prefetch file NOTEPAD.EXE-336351A9.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:22: [+] Copying prefetch file NTOSBOOT-B00DFAAD.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:22: [+] Copying prefetch file NTVDM.EXE-1A10A423.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:22: [+] Copying prefetch file OLLYDBG.EXE-112FE288.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:22: [+] Copying prefetch file PE.EXPLORER_SETUP.EXE-3AF71781.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:22: [+] Copying prefetch file PE.EXPLORER_SETUP.TMP-29E1E04C.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:22: [+] Copying prefetch file PEXPLORER.EXE-2EBEC497.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:22: [+] Copying prefetch file PING.EXE-31216D26.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:22: [+] Copying prefetch file PROCEXP.EXE-0DFC41BE.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:22: [+] Copying prefetch file PROC_ANALYZER.EXE-3974E660.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:22: [+] Copying prefetch file PSLOGLIST.EXE-1DE9959F.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:22: [+] Copying prefetch file REG.EXE-0D2A95F7.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:22: [+] Copying prefetch file REGEDIT.EXE-1B606482.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:23: [+] Copying prefetch file REGSVR32.EXE-25EEFE2F.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:23: [+] Copying prefetch file RIFFLE.EXE-05AAC97D.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:23: [+] Copying prefetch file RUNDLL32.EXE-147710F4.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:23: [+] Copying prefetch file RUNDLL32.EXE-150DDA3A.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:23: [+] Copying prefetch file RUNDLL32.EXE-1660D9EF.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:23: [+] Copying prefetch file RUNDLL32.EXE-169CA248.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:23: [+] Copying prefetch file RUNDLL32.EXE-1831A4F3.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:23: [+] Copying prefetch file RUNDLL32.EXE-1A71CC80.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:23: [+] Copying prefetch file RUNDLL32.EXE-2341BBC5.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:23: [+] Copying prefetch file RUNDLL32.EXE-286A7F8C.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:23: [+] Copying prefetch file RUNDLL32.EXE-2AF77CC9.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:23: [+] Copying prefetch file RUNDLL32.EXE-2F26E69F.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:23: [+] Copying prefetch file RUNDLL32.EXE-311943EE.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:23: [+] Copying prefetch file RUNDLL32.EXE-332B7401.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:23: [+] Copying prefetch file RUNDLL32.EXE-3636573E.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:23: [+] Copying prefetch file RUNDLL32.EXE-383F5A38.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:23: [+] Copying prefetch file RUNDLL32.EXE-3DC8200C.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:23: [+] Copying prefetch file RUNDLL32.EXE-4499C56E.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:23: [+] Copying prefetch file RUNDLL32.EXE-451FC2C0.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:23: [+] Copying prefetch file RUNDLL32.EXE-45736D66.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:23: [+] Copying prefetch file RUNDLL32.EXE-45C7D27F.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:23: [+] Copying prefetch file RUNDLL32.EXE-46F959F5.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:23: [+] Copying prefetch file RUNDLL32.EXE-470F11BD.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:23: [+] Copying prefetch file RUNDLL32.EXE-49F747DB.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:24: [+] Copying prefetch file RUNONCE.EXE-2803F297.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:24: [+] Copying prefetch file SCHTASKS.EXE-0CBF6A11.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:24: [+] Copying prefetch file SERVER.EXE-0D263FFE.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:24: [+] Copying prefetch file SETUP.EXE-02202314.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:24: [+] Copying prefetch file SETUP.EXE-393E66AE.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:24: [+] Copying prefetch file SETUP50.EXE-362FF7C9.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:24: [+] Copying prefetch file SHMGRATE.EXE-1BA69E68.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:24: [+] Copying prefetch file SMLOGSVC.EXE-054B1E6C.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:24: [+] Copying prefetch file SNIFF_HIT.EXE-1AB02EA8.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:24: [+] Copying prefetch file SPOOLSV.EXE-282F76A7.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:24: [+] Copying prefetch file STRINGS.EXE-04E4B3AE.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:24: [+] Copying prefetch file SVCHOST.EXE-3530F672.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:24: [+] Copying prefetch file SYSANALYZER.EXE-25AE12E4.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:24: [+] Copying prefetch file SYSANALYZER_SETUP.EXE-006397E2.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:24: [+] Copying prefetch file SYSANALYZER_SETUP.TMP-36A7A8AC.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:24: [+] Copying prefetch file TASKLIST.EXE-10D94B23.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:24: [+] Copying prefetch file TASKMGR.EXE-20256C55.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:24: [+] Copying prefetch file TPAUTOCONNECT.EXE-3A8C30BE.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:24: [+] Copying prefetch file TPAUTOCONNSVC.EXE-19F171C6.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:24: [+] Copying prefetch file TPVCGATEWAY.EXE-120287EA.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:24: [+] Copying prefetch file UNREGMP2.EXE-07CACB61.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:24: [+] Copying prefetch file USERINIT.EXE-30B18140.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:25: [+] Copying prefetch file VCREDIST_X86.EXE-336F3F45.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:25: [+] Copying prefetch file VER.EXE-1180536C.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:25: [+] Copying prefetch file VMACTHLP.EXE-0790714A.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:25: [+] Copying prefetch file VMTOOLSD.EXE-2376BC03.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:25: [+] Copying prefetch file VMW14.TMP-089B98B6.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:25: [+] Copying prefetch file VMWARESERVICE.EXE-38805A46.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:25: [+] Copying prefetch file VMWARETRAY.EXE-029F476F.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:25: [+] Copying prefetch file VMWAREUSER.EXE-1F72BBE4.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:25: [+] Copying prefetch file W9XPOPEN.EXE-142DBA66.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:25: [+] Copying prefetch file WINDUMP.EXE-37A90DEB.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:25: [+] Copying prefetch file WINPCAP_4_1_2.EXE-29070D40.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:25: [+] Copying prefetch file WINPCAP_4_1_2.EXE-2BCC56F4.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:25: [+] Copying prefetch file WINSUDO.EXE-36EA7784.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:25: [+] Copying prefetch file WIRESHARK-WIN32-1.2.10.EXE-0DAEF238.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:25: [+] Copying prefetch file WIRESHARK.EXE-0525E272.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:25: [+] Copying prefetch file WMIADAP.EXE-2DF425B2.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:25: [+] Copying prefetch file WMIPRVSE.EXE-28F301A9.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:25: [+] Copying prefetch file WSCNTFY.EXE-1B24F5EB.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:25: [+] Copying prefetch file WUAUCLT.EXE-399A8E72.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:25: [+] Copying prefetch file XVI32.EXE-39D44B22.pf to log folder C:\temp\riffle\prefetch
+2013-03-06 11:31:25: [+] Extracting ntuser.dat files from user profile folder.
+2013-03-06 11:31:25: [+] NTFSVolumeLive::Populate() - strVolume parameter: C:
+2013-03-06 11:31:29: [+] There are 4 ntuser.dat files on this host.
+2013-03-06 11:31:29: [+] Copying ntuser.dat file C:\Documents and Settings\Default User\NTUSER.DAT to folder C:\temp\riffle\ntuser
+2013-03-06 11:31:29: [+] Copying ntuser.dat file C:\Documents and Settings\LocalService\NTUSER.DAT to folder C:\temp\riffle\ntuser
+2013-03-06 11:31:29: [+] Copying ntuser.dat file C:\Documents and Settings\NetworkService\NTUSER.DAT to folder C:\temp\riffle\ntuser
+2013-03-06 11:31:30: [+] Copying ntuser.dat file C:\Documents and Settings\xp\NTUSER.DAT to folder C:\temp\riffle\ntuser
+2013-03-06 11:31:30: [+] Copying REG Hives...
+2013-03-06 11:31:30: [+] NTFSVolumeLive::Populate() - strVolume parameter: C:
+2013-03-06 11:31:31: [+] Copying SAM REG Hive to C:\temp\riffle\REG
+2013-03-06 11:31:31: [+] Copying SYSTEM REG Hive to C:\temp\riffle\REG
+2013-03-06 11:31:32: [+] Copying SOFTWARE REG Hive to C:\temp\riffle\REG
+2013-03-06 11:31:33: [+] Copying SECURITY REG Hive to C:\temp\riffle\REG
+2013-03-06 11:31:33: [+] Extracting event logs.
+2013-03-06 11:31:35: [+] Extracting event logs completed.
+2013-03-06 11:31:35: [+] Extracting McAfee A/V log files.
+2013-03-06 11:31:35: Error:     McAfee A/V engine may not be installed on this host.
+2013-03-06 11:31:35: [+] Extracting McAfee A/V Quarantine folder.
+2013-03-06 11:31:35: [-] GetQuarantineFolder() - There is no McAfee Quarantine folder on system volume.
+2013-03-06 11:31:35:     McAfee A/V engine may not be installed on this host.
+2013-03-06 11:31:35: [+] Running nestat command.
+2013-03-06 11:31:50: [+] Saving netstat output to folder C:\temp\riffle\network\netstat
+2013-03-06 11:31:50: [+] Running ipconfig /displayds command on host.
+2013-03-06 11:31:50: [+] Writing output of ipconfig /displaydns to C:\temp\riffle\network\dnscache
+2013-03-06 11:31:50: [+] Extracting the hosts file.
+2013-03-06 11:31:50: [+] Running ipconfig /all command on host.
+2013-03-06 11:31:50: [+] Writing output of ipconfig /all to C:\temp\riffle\network\ipconfig
+2013-03-06 11:31:50: [+] Running tasklist command and saving output.
+2013-03-06 11:31:51: [+] Saving tasklist output to folder C:\temp\riffle\tasklist
+2013-03-06 11:31:51: [+] Running scheduled tasks command and saving output.
+2013-03-06 11:31:51: [+] Saving at output to folder C:\temp\riffle\scheduler
+2013-03-06 11:31:52: [+] Running Autorunsc.exe and saving output.
+2013-03-06 11:32:13: [+] Writing Autorunsc.exe output to folder C:\temp\riffle\autoruns
+2013-03-06 11:32:13: [+] Extracting IE history files from user profile folder.
+2013-03-06 11:32:13: [+] There are 10 index.dat files on this host.
+2013-03-06 11:32:13: [+] Copying index.dat file C:\Documents and Settings\Default User\Cookies\index.dat to folder C:\temp\riffle\IEHistory
+2013-03-06 11:32:13: [+] Copying index.dat file C:\Documents and Settings\Default User\Local Settings\History\History.IE5\index.dat to folder C:\temp\riffle\IEHistory
+2013-03-06 11:32:13: [+] Copying index.dat file C:\Documents and Settings\Default User\Local Settings\Temporary Internet Files\Content.IE5\index.dat to folder C:\temp\riffle\IEHistory
+2013-03-06 11:32:13: [+] Copying index.dat file C:\Documents and Settings\LocalService\Cookies\index.dat to folder C:\temp\riffle\IEHistory
+2013-03-06 11:32:13: [+] Copying index.dat file C:\Documents and Settings\LocalService\Local Settings\History\History.IE5\index.dat to folder C:\temp\riffle\IEHistory
+2013-03-06 11:32:13: [+] Copying index.dat file C:\Documents and Settings\LocalService\Local Settings\Temporary Internet Files\Content.IE5\index.dat to folder C:\temp\riffle\IEHistory
+2013-03-06 11:32:13: [+] Copying index.dat file C:\Documents and Settings\xp\Cookies\index.dat to folder C:\temp\riffle\IEHistory
+2013-03-06 11:32:13: [+] Copying index.dat file C:\Documents and Settings\xp\Local Settings\History\History.IE5\MSHist012013030620130307\index.dat to folder C:\temp\riffle\IEHistory
+2013-03-06 11:32:13: [+] Copying index.dat file C:\Documents and Settings\xp\Local Settings\History\History.IE5\index.dat to folder C:\temp\riffle\IEHistory
+2013-03-06 11:32:13: [+] Copying index.dat file C:\Documents and Settings\xp\Local Settings\Temporary Internet Files\Content.IE5\index.dat to folder C:\temp\riffle\IEHistory
+2013-03-06 11:32:13: [+] Extracting FireFox history files from user profile folder.
+2013-03-06 11:32:13: Error: [-] GetFireFoxHistory() - Could not locate any FireFox .sqlite files. (Am I Admin?)
+2013-03-06 11:32:13: [+] Removing unused working folders.
+2013-03-06 11:32:13: [+] Creating riffle archive file.
+2013-03-06 11:32:13: [+] Riffle archive file name is C:\XP-FF3F6B62E8AB_riffle_2013-03-06-1132.7z

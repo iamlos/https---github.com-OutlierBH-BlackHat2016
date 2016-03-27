@@ -1,0 +1,50 @@
+
+
+Windows IP Configuration
+
+
+
+        Host Name . . . . . . . . . . . . : xp-ff3f6b62e8ab
+
+        Primary Dns Suffix  . . . . . . . : 
+
+        Node Type . . . . . . . . . . . . : Hybrid
+
+        IP Routing Enabled. . . . . . . . : No
+
+        WINS Proxy Enabled. . . . . . . . : No
+
+        DNS Suffix Search List. . . . . . : localdomain
+
+
+
+Ethernet adapter Local Area Connection:
+
+
+
+        Connection-specific DNS Suffix  . : localdomain
+
+        Description . . . . . . . . . . . : VMware Accelerated AMD PCNet Adapter
+
+        Physical Address. . . . . . . . . : 00-0C-29-16-61-86
+
+        Dhcp Enabled. . . . . . . . . . . : Yes
+
+        Autoconfiguration Enabled . . . . : Yes
+
+        IP Address. . . . . . . . . . . . : 192.168.61.128
+
+        Subnet Mask . . . . . . . . . . . : 255.255.255.0
+
+        Default Gateway . . . . . . . . . : 192.168.61.2
+
+        DHCP Server . . . . . . . . . . . : 192.168.61.254
+
+        DNS Servers . . . . . . . . . . . : 192.168.61.2
+
+        Primary WINS Server . . . . . . . : 192.168.61.2
+
+        Lease Obtained. . . . . . . . . . : Wednesday, March 06, 2013 11:29:51 AM
+
+        Lease Expires . . . . . . . . . . : Wednesday, March 06, 2013 11:59:51 AM
+

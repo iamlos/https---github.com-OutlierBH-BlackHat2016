@@ -1,0 +1,3967 @@
+Event[0]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: EventLog
+  Date: 2010-04-20T15:16:52.000
+  Event ID: 6009
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: MACHINENAME
+  Description: 
+Microsoft (R) Windows (R) 5.01. 2600 Service Pack 2 Uniprocessor Free.
+
+Event[1]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: EventLog
+  Date: 2010-04-20T15:16:52.000
+  Event ID: 6005
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: MACHINENAME
+  Description: 
+The Event log service was started.
+
+Event[2]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Serial
+  Date: 2010-04-20T15:16:39.000
+  Event ID: 2
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: MACHINENAME
+  Description: 
+While validating that \Device\Serial0 was really a serial port, a fifo was detected. The fifo will be used.
+
+Event[3]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Serial
+  Date: 2010-04-20T15:16:39.000
+  Event ID: 2
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: MACHINENAME
+  Description: 
+While validating that \Device\Serial1 was really a serial port, a fifo was detected. The fifo will be used.
+
+Event[4]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: EventLog
+  Date: 2010-04-20T22:21:37.000
+  Event ID: 6011
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[5]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Workstation
+  Date: 2010-04-20T22:25:48.000
+  Event ID: 3260
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+This computer has been successfully joined to domain 'workgroup'.
+
+Event[6]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: HTTP
+  Date: 2010-04-20T22:30:15.000
+  Event ID: 15007
+  Task: None
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[7]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Setup
+  Date: 2010-04-20T22:37:03.000
+  Event ID: 60054
+  Task: None
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[8]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: EventLog
+  Date: 2010-04-20T22:38:07.000
+  Event ID: 6009
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+Microsoft (R) Windows (R) 5.01. 2600 Service Pack 2 Uniprocessor Free.
+
+Event[9]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: EventLog
+  Date: 2010-04-20T22:38:07.000
+  Event ID: 6005
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Event log service was started.
+
+Event[10]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: SRService
+  Date: 2010-04-20T22:38:28.000
+  Event ID: 115
+  Task: None
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[11]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2010-04-20T22:38:37.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The DCOM Server Process Launcher service was successfully sent a start control.
+
+Event[12]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2010-04-20T22:38:37.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Telephony service was successfully sent a start control.
+
+Event[13]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2010-04-20T22:38:37.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Network Location Awareness (NLA) service was successfully sent a start control.
+
+Event[14]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2010-04-20T22:38:37.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Network Location Awareness (NLA) service entered the running state.
+
+Event[15]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2010-04-20T22:38:38.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Application Layer Gateway Service service was successfully sent a start control.
+
+Event[16]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2010-04-20T22:38:38.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Application Layer Gateway Service service entered the running state.
+
+Event[17]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2010-04-20T22:38:38.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Computer Browser service entered the stopped state.
+
+Event[18]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2010-04-20T22:39:05.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The SSDP Discovery Service service was successfully sent a start control.
+
+Event[19]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2010-04-20T22:39:05.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The SSDP Discovery Service service entered the running state.
+
+Event[20]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2010-04-20T22:39:06.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Remote Access Connection Manager service was successfully sent a start control.
+
+Event[21]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2010-04-20T22:39:07.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Remote Access Connection Manager service entered the running state.
+
+Event[22]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2010-04-20T22:39:48.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Terminal Services service entered the running state.
+
+Event[23]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2010-04-20T22:39:48.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Fast User Switching Compatibility service was successfully sent a start control.
+
+Event[24]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2010-04-20T22:39:48.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Fast User Switching Compatibility service entered the running state.
+
+Event[25]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2010-04-20T22:40:04.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Windows Installer service was successfully sent a start control.
+
+Event[26]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2010-04-20T22:40:04.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Windows Installer service entered the running state.
+
+Event[27]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2010-04-20T22:40:46.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Windows Installer service entered the stopped state.
+
+Event[28]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: EventLog
+  Date: 2010-04-20T22:40:48.000
+  Event ID: 6006
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Event log service was stopped.
+
+Event[29]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: EventLog
+  Date: 2012-09-17T16:28:04.000
+  Event ID: 6009
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+Microsoft (R) Windows (R) 5.01. 2600 Service Pack 2 Uniprocessor Free.
+
+Event[30]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: EventLog
+  Date: 2012-09-17T16:28:04.000
+  Event ID: 6005
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Event log service was started.
+
+Event[31]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Dhcp
+  Date: 2012-09-17T16:29:09.000
+  Event ID: 1007
+  Task: None
+  Level: Warning
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[32]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: W32Time
+  Date: 2012-09-17T16:29:17.000
+  Event ID: 17
+  Task: None
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[33]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: W32Time
+  Date: 2012-09-17T16:29:17.000
+  Event ID: 29
+  Task: None
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[34]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: W32Time
+  Date: 2012-09-17T16:29:19.000
+  Event ID: 17
+  Task: None
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[35]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: W32Time
+  Date: 2012-09-17T16:29:19.000
+  Event ID: 29
+  Task: None
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[36]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-17T16:29:27.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Terminal Services service entered the running state.
+
+Event[37]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-17T16:29:27.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Fast User Switching Compatibility service was successfully sent a start control.
+
+Event[38]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-17T16:29:27.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Network Location Awareness (NLA) service was successfully sent a start control.
+
+Event[39]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-17T16:29:27.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Network Location Awareness (NLA) service entered the running state.
+
+Event[40]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-17T16:29:27.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Fast User Switching Compatibility service entered the running state.
+
+Event[41]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-17T16:29:27.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The SSDP Discovery Service service was successfully sent a start control.
+
+Event[42]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-17T16:29:27.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The SSDP Discovery Service service entered the running state.
+
+Event[43]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-17T16:29:27.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Application Layer Gateway Service service was successfully sent a start control.
+
+Event[44]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-17T16:29:27.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Application Layer Gateway Service service entered the running state.
+
+Event[45]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-17T16:29:27.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Windows Installer service was successfully sent a start control.
+
+Event[46]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-17T16:29:27.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Windows Installer service entered the running state.
+
+Event[47]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-17T16:29:27.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Computer Browser service entered the stopped state.
+
+Event[48]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-17T16:29:50.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Print Spooler service entered the stopped state.
+
+Event[49]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-17T16:29:50.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-21-861567501-682003330-839522115-1003
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Print Spooler service was successfully sent a stop control.
+
+Event[50]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-17T16:29:50.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-21-861567501-682003330-839522115-1003
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Print Spooler service was successfully sent a start control.
+
+Event[51]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-17T16:29:53.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Print Spooler service entered the running state.
+
+Event[52]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Print
+  Date: 2012-09-17T16:29:55.000
+  Event ID: 20
+  Task: None
+  Level: Warning
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[53]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Print
+  Date: 2012-09-17T16:30:00.000
+  Event ID: 20
+  Task: None
+  Level: Warning
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[54]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-17T16:30:02.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The VMware Physical Disk Helper Service service was successfully sent a start control.
+
+Event[55]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-17T16:30:02.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The VMware Physical Disk Helper Service service entered the running state.
+
+Event[56]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-17T16:30:15.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-21-861567501-682003330-839522115-1003
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The VMware Tools Service service was successfully sent a start control.
+
+Event[57]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-17T16:30:15.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The VMware Tools Service service entered the running state.
+
+Event[58]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: USER32
+  Date: 2012-09-17T16:30:25.000
+  Event ID: 1074
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The process msiexec.exe has initiated the reboot of computer XP-FF3F6B62E8AB on behalf of user 02000380 for the following reason: No title for this reason could be found
+ Reason Code: 0x2
+ Shutdown Type: reboot
+ Comment: The Windows Installer initiated a system restart to complete or continue the configuration of 'VMware Tools'.
+
+Event[59]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-17T16:30:25.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Windows Installer service entered the stopped state.
+
+Event[60]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: EventLog
+  Date: 2012-09-17T16:30:27.000
+  Event ID: 6006
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Event log service was stopped.
+
+Event[61]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: EventLog
+  Date: 2012-09-17T16:30:47.000
+  Event ID: 6009
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+Microsoft (R) Windows (R) 5.01. 2600 Service Pack 2 Uniprocessor Free.
+
+Event[62]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: EventLog
+  Date: 2012-09-17T16:30:47.000
+  Event ID: 6005
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Event log service was started.
+
+Event[63]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: vmdebug
+  Date: 2012-09-17T16:30:45.000
+  Event ID: 5
+  Task: None
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[64]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Dhcp
+  Date: 2012-09-17T16:31:49.000
+  Event ID: 1007
+  Task: None
+  Level: Warning
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[65]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: W32Time
+  Date: 2012-09-17T16:31:57.000
+  Event ID: 17
+  Task: None
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[66]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: W32Time
+  Date: 2012-09-17T16:31:57.000
+  Event ID: 29
+  Task: None
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[67]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: W32Time
+  Date: 2012-09-17T16:32:00.000
+  Event ID: 17
+  Task: None
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[68]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: W32Time
+  Date: 2012-09-17T16:32:00.000
+  Event ID: 29
+  Task: None
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[69]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-17T16:32:04.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Terminal Services service entered the running state.
+
+Event[70]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-17T16:32:04.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Fast User Switching Compatibility service was successfully sent a start control.
+
+Event[71]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-17T16:32:04.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Network Location Awareness (NLA) service was successfully sent a start control.
+
+Event[72]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-17T16:32:04.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Network Location Awareness (NLA) service entered the running state.
+
+Event[73]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-17T16:32:04.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Fast User Switching Compatibility service entered the running state.
+
+Event[74]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-17T16:32:04.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The SSDP Discovery Service service was successfully sent a start control.
+
+Event[75]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-17T16:32:04.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The SSDP Discovery Service service entered the running state.
+
+Event[76]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-17T16:32:04.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Application Layer Gateway Service service was successfully sent a start control.
+
+Event[77]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-17T16:32:04.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Application Layer Gateway Service service entered the running state.
+
+Event[78]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-17T16:32:04.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Computer Browser service entered the stopped state.
+
+Event[79]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-17T16:32:15.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Computer Browser service was successfully sent a start control.
+
+Event[80]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-17T16:32:15.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Computer Browser service entered the running state.
+
+Event[81]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: EventLog
+  Date: 2012-09-27T15:00:21.000
+  Event ID: 6009
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+Microsoft (R) Windows (R) 5.01. 2600 Service Pack 2 Uniprocessor Free.
+
+Event[82]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: EventLog
+  Date: 2012-09-27T15:00:21.000
+  Event ID: 6005
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Event log service was started.
+
+Event[83]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: vmdebug
+  Date: 2012-09-27T15:00:19.000
+  Event ID: 5
+  Task: None
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[84]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Dhcp
+  Date: 2012-09-27T15:01:28.000
+  Event ID: 1007
+  Task: None
+  Level: Warning
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[85]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: W32Time
+  Date: 2012-09-27T15:01:38.000
+  Event ID: 17
+  Task: None
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[86]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: W32Time
+  Date: 2012-09-27T15:01:38.000
+  Event ID: 29
+  Task: None
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[87]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: W32Time
+  Date: 2012-09-27T15:01:41.000
+  Event ID: 17
+  Task: None
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[88]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: W32Time
+  Date: 2012-09-27T15:01:41.000
+  Event ID: 29
+  Task: None
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[89]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-27T15:01:44.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Terminal Services service entered the running state.
+
+Event[90]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-27T15:01:44.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Fast User Switching Compatibility service was successfully sent a start control.
+
+Event[91]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-27T15:01:44.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Network Location Awareness (NLA) service was successfully sent a start control.
+
+Event[92]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-27T15:01:44.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Network Location Awareness (NLA) service entered the running state.
+
+Event[93]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-27T15:01:44.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Fast User Switching Compatibility service entered the running state.
+
+Event[94]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-27T15:01:44.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The SSDP Discovery Service service was successfully sent a start control.
+
+Event[95]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-27T15:01:44.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The SSDP Discovery Service service entered the running state.
+
+Event[96]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-27T15:01:44.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Application Layer Gateway Service service was successfully sent a start control.
+
+Event[97]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-27T15:01:44.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Application Layer Gateway Service service entered the running state.
+
+Event[98]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: W32Time
+  Date: 2012-09-27T15:16:41.000
+  Event ID: 17
+  Task: None
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[99]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: W32Time
+  Date: 2012-09-27T15:16:41.000
+  Event ID: 29
+  Task: None
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[100]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: W32Time
+  Date: 2012-09-27T15:46:41.000
+  Event ID: 17
+  Task: None
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[101]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: W32Time
+  Date: 2012-09-27T15:46:41.000
+  Event ID: 29
+  Task: None
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[102]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: EventLog
+  Date: 2012-09-27T16:19:51.000
+  Event ID: 6009
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+Microsoft (R) Windows (R) 5.01. 2600 Service Pack 2 Uniprocessor Free.
+
+Event[103]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: EventLog
+  Date: 2012-09-27T16:19:51.000
+  Event ID: 6005
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Event log service was started.
+
+Event[104]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: vmdebug
+  Date: 2012-09-27T16:19:49.000
+  Event ID: 5
+  Task: None
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[105]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Dhcp
+  Date: 2012-09-27T16:20:51.000
+  Event ID: 1007
+  Task: None
+  Level: Warning
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[106]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: W32Time
+  Date: 2012-09-27T16:20:59.000
+  Event ID: 17
+  Task: None
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[107]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: W32Time
+  Date: 2012-09-27T16:20:59.000
+  Event ID: 29
+  Task: None
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[108]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: W32Time
+  Date: 2012-09-27T16:21:02.000
+  Event ID: 17
+  Task: None
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[109]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: W32Time
+  Date: 2012-09-27T16:21:02.000
+  Event ID: 29
+  Task: None
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[110]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-27T16:21:12.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Terminal Services service entered the running state.
+
+Event[111]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-27T16:21:12.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Fast User Switching Compatibility service was successfully sent a start control.
+
+Event[112]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-27T16:21:12.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Network Location Awareness (NLA) service was successfully sent a start control.
+
+Event[113]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-27T16:21:12.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The SSDP Discovery Service service was successfully sent a start control.
+
+Event[114]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-27T16:21:12.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Network Location Awareness (NLA) service entered the running state.
+
+Event[115]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-27T16:21:12.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Fast User Switching Compatibility service entered the running state.
+
+Event[116]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-27T16:21:12.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The SSDP Discovery Service service entered the running state.
+
+Event[117]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-27T16:21:12.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Application Layer Gateway Service service was successfully sent a start control.
+
+Event[118]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-27T16:21:12.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Application Layer Gateway Service service entered the running state.
+
+Event[119]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-27T16:22:40.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-21-861567501-682003330-839522115-1003
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The NetGroup Packet Filter Driver service was successfully sent a start control.
+
+Event[120]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: SideBySide
+  Date: 2012-09-27T16:25:05.000
+  Event ID: 32
+  Task: N/A
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+Activation context generation failed for "%11".Error in manifest or policy file "%12" on line %13.
+
+Event[121]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: SideBySide
+  Date: 2012-09-27T16:25:05.000
+  Event ID: 59
+  Task: N/A
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+Activation context generation failed for "%11".Error in manifest or policy file "%12" on line %13. Invalid Xml syntax.
+
+Event[122]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: SideBySide
+  Date: 2012-09-27T16:25:05.000
+  Event ID: 59
+  Task: N/A
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+Activation context generation failed for "%11".Error in manifest or policy file "%12" on line %13. Invalid Xml syntax.
+
+Event[123]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: W32Time
+  Date: 2012-09-27T16:36:07.000
+  Event ID: 17
+  Task: None
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[124]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: W32Time
+  Date: 2012-09-27T16:36:07.000
+  Event ID: 29
+  Task: None
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[125]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: W32Time
+  Date: 2012-09-27T17:06:07.000
+  Event ID: 17
+  Task: None
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[126]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: W32Time
+  Date: 2012-09-27T17:06:07.000
+  Event ID: 29
+  Task: None
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[127]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: W32Time
+  Date: 2012-09-27T18:06:07.000
+  Event ID: 17
+  Task: None
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[128]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: W32Time
+  Date: 2012-09-27T18:06:07.000
+  Event ID: 29
+  Task: None
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[129]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: SideBySide
+  Date: 2012-09-27T18:44:55.000
+  Event ID: 32
+  Task: N/A
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+Activation context generation failed for "%11".Error in manifest or policy file "%12" on line %13.
+
+Event[130]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: SideBySide
+  Date: 2012-09-27T18:44:55.000
+  Event ID: 59
+  Task: N/A
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+Activation context generation failed for "%11".Error in manifest or policy file "%12" on line %13. Invalid Xml syntax.
+
+Event[131]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: SideBySide
+  Date: 2012-09-27T18:44:55.000
+  Event ID: 59
+  Task: N/A
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+Activation context generation failed for "%11".Error in manifest or policy file "%12" on line %13. Invalid Xml syntax.
+
+Event[132]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: SideBySide
+  Date: 2012-09-27T19:27:58.000
+  Event ID: 32
+  Task: N/A
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+Activation context generation failed for "%11".Error in manifest or policy file "%12" on line %13.
+
+Event[133]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: SideBySide
+  Date: 2012-09-27T19:27:58.000
+  Event ID: 59
+  Task: N/A
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+Activation context generation failed for "%11".Error in manifest or policy file "%12" on line %13. Invalid Xml syntax.
+
+Event[134]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: SideBySide
+  Date: 2012-09-27T19:27:58.000
+  Event ID: 59
+  Task: N/A
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+Activation context generation failed for "%11".Error in manifest or policy file "%12" on line %13. Invalid Xml syntax.
+
+Event[135]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: SideBySide
+  Date: 2012-09-27T19:28:58.000
+  Event ID: 32
+  Task: N/A
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+Activation context generation failed for "%11".Error in manifest or policy file "%12" on line %13.
+
+Event[136]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: SideBySide
+  Date: 2012-09-27T19:28:58.000
+  Event ID: 59
+  Task: N/A
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+Activation context generation failed for "%11".Error in manifest or policy file "%12" on line %13. Invalid Xml syntax.
+
+Event[137]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: SideBySide
+  Date: 2012-09-27T19:28:58.000
+  Event ID: 59
+  Task: N/A
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+Activation context generation failed for "%11".Error in manifest or policy file "%12" on line %13. Invalid Xml syntax.
+
+Event[138]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: SideBySide
+  Date: 2012-09-27T19:35:24.000
+  Event ID: 32
+  Task: N/A
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+Activation context generation failed for "%11".Error in manifest or policy file "%12" on line %13.
+
+Event[139]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: SideBySide
+  Date: 2012-09-27T19:35:24.000
+  Event ID: 59
+  Task: N/A
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+Activation context generation failed for "%11".Error in manifest or policy file "%12" on line %13. Invalid Xml syntax.
+
+Event[140]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: SideBySide
+  Date: 2012-09-27T19:35:24.000
+  Event ID: 59
+  Task: N/A
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+Activation context generation failed for "%11".Error in manifest or policy file "%12" on line %13. Invalid Xml syntax.
+
+Event[141]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: SideBySide
+  Date: 2012-09-27T19:36:14.000
+  Event ID: 32
+  Task: N/A
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+Activation context generation failed for "%11".Error in manifest or policy file "%12" on line %13.
+
+Event[142]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: SideBySide
+  Date: 2012-09-27T19:36:14.000
+  Event ID: 59
+  Task: N/A
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+Activation context generation failed for "%11".Error in manifest or policy file "%12" on line %13. Invalid Xml syntax.
+
+Event[143]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: SideBySide
+  Date: 2012-09-27T19:36:14.000
+  Event ID: 59
+  Task: N/A
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+Activation context generation failed for "%11".Error in manifest or policy file "%12" on line %13. Invalid Xml syntax.
+
+Event[144]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-27T19:47:01.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-21-861567501-682003330-839522115-1003
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Performance Logs and Alerts service was successfully sent a start control.
+
+Event[145]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-27T19:47:01.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Performance Logs and Alerts service entered the running state.
+
+Event[146]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-27T19:47:01.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Performance Logs and Alerts service entered the stopped state.
+
+Event[147]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-27T19:47:01.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-21-861567501-682003330-839522115-1003
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Performance Logs and Alerts service was successfully sent a start control.
+
+Event[148]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-27T19:47:01.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Performance Logs and Alerts service entered the running state.
+
+Event[149]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-27T19:47:01.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Performance Logs and Alerts service entered the stopped state.
+
+Event[150]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-27T19:48:08.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Telephony service entered the running state.
+
+Event[151]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-27T19:48:08.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-21-861567501-682003330-839522115-1003
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Remote Access Connection Manager service was successfully sent a start control.
+
+Event[152]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-27T19:48:09.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Remote Access Connection Manager service entered the running state.
+
+Event[153]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: BROWSER
+  Date: 2012-09-27T19:53:54.000
+  Event ID: 8033
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The browser has forced an election on network \Device\NetBT_Tcpip_{DCBCED52-DEB9-42B3-89B6-6D0C749FF1ED} because a master browser was stopped.
+
+Event[154]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Dhcp
+  Date: 2012-09-27T19:55:00.000
+  Event ID: 1007
+  Task: None
+  Level: Warning
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[155]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: W32Time
+  Date: 2012-09-27T19:55:00.000
+  Event ID: 17
+  Task: None
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[156]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: W32Time
+  Date: 2012-09-27T19:55:00.000
+  Event ID: 29
+  Task: None
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[157]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: EventLog
+  Date: 2012-09-30T12:35:28.000
+  Event ID: 6009
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+Microsoft (R) Windows (R) 5.01. 2600 Service Pack 2 Uniprocessor Free.
+
+Event[158]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: EventLog
+  Date: 2012-09-30T12:35:28.000
+  Event ID: 6005
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Event log service was started.
+
+Event[159]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:35:55.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Terminal Services service entered the running state.
+
+Event[160]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:35:55.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Fast User Switching Compatibility service was successfully sent a start control.
+
+Event[161]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:35:55.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Network Location Awareness (NLA) service was successfully sent a start control.
+
+Event[162]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:35:55.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Network Location Awareness (NLA) service entered the running state.
+
+Event[163]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:35:55.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Fast User Switching Compatibility service entered the running state.
+
+Event[164]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:35:55.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The SSDP Discovery Service service was successfully sent a start control.
+
+Event[165]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:35:55.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The SSDP Discovery Service service entered the running state.
+
+Event[166]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:35:55.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Telephony service entered the running state.
+
+Event[167]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:35:55.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-21-861567501-682003330-839522115-1003
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Remote Access Connection Manager service was successfully sent a start control.
+
+Event[168]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:35:55.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Application Layer Gateway Service service was successfully sent a start control.
+
+Event[169]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:35:55.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Application Layer Gateway Service service entered the running state.
+
+Event[170]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:35:55.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Remote Access Connection Manager service entered the running state.
+
+Event[171]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: vmdebug
+  Date: 2012-09-30T12:35:26.000
+  Event ID: 3
+  Task: None
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[172]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Tcpip
+  Date: 2012-09-30T12:35:36.000
+  Event ID: 4201
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The system detected that network adapter \DEVICE\TCPIP_{DCBCED52-DEB9-42B3-89B6-6D0C749FF1ED} was connected to the network, and has initiated normal operation.
+
+Event[173]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:39:37.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Windows Installer service was successfully sent a start control.
+
+Event[174]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:39:37.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Windows Installer service entered the running state.
+
+Event[175]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: BROWSER
+  Date: 2012-09-30T12:40:14.000
+  Event ID: 8021
+  Task: N/A
+  Level: Warning
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The browser service was unable to retrieve a list of servers from the browser master \\MVISSHOOKPSX on the network \Device\NetBT_Tcpip_{DCBCED52-DEB9-42B3-89B6-6D0C749FF1ED}.
+ 
+ Browser master: \\MVISSHOOKPSX
+ Network: \Device\NetBT_Tcpip_{DCBCED52-DEB9-42B3-89B6-6D0C749FF1ED}
+ 
+ This event may be caused by a temporary loss of network connectivity. If this message appears again, verify that the server is still connected to the network. The return code is in the Data text box.
+
+Event[176]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: BROWSER
+  Date: 2012-09-30T12:42:14.000
+  Event ID: 8032
+  Task: N/A
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The browser service has failed to retrieve the backup list too many times on transport \Device\NetBT_Tcpip_{DCBCED52-DEB9-42B3-89B6-6D0C749FF1ED}. The backup browser is stopping.
+
+Event[177]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:42:36.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Print Spooler service entered the stopped state.
+
+Event[178]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:42:36.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-21-861567501-682003330-839522115-1003
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Print Spooler service was successfully sent a stop control.
+
+Event[179]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:42:36.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The VMware Tools Service service was successfully sent a stop control.
+
+Event[180]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:42:36.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The VMware Tools Service service entered the stopped state.
+
+Event[181]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:42:37.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The VMware Physical Disk Helper Service service entered the stopped state.
+
+Event[182]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:42:37.000
+  Event ID: 7023
+  Task: N/A
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The VMware Physical Disk Helper Service service terminated with the following error: 
+The copy functions cannot be used.
+
+Event[183]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:42:37.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The VMware Physical Disk Helper Service service was successfully sent a stop control.
+
+Event[184]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:43:11.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Print Spooler service was successfully sent a start control.
+
+Event[185]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:43:11.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Print Spooler service entered the running state.
+
+Event[186]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Print
+  Date: 2012-09-30T12:43:16.000
+  Event ID: 20
+  Task: None
+  Level: Warning
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[187]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Print
+  Date: 2012-09-30T12:43:21.000
+  Event ID: 20
+  Task: None
+  Level: Warning
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[188]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:43:43.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The vSockets Driver service was successfully sent a start control.
+
+Event[189]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:43:44.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The VMware Physical Disk Helper Service service was successfully sent a start control.
+
+Event[190]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:43:44.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The VMware Physical Disk Helper Service service entered the running state.
+
+Event[191]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:43:55.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Memory Control Driver service was successfully sent a start control.
+
+Event[192]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Tcpip
+  Date: 2012-09-30T12:44:06.000
+  Event ID: 4201
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The system detected that network adapter \DEVICE\TCPIP_{DCBCED52-DEB9-42B3-89B6-6D0C749FF1ED} was connected to the network, and has initiated normal operation.
+
+Event[193]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:44:12.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The VMware Tools service was successfully sent a start control.
+
+Event[194]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:44:12.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The VMware Tools service entered the running state.
+
+Event[195]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: USER32
+  Date: 2012-09-30T12:45:41.000
+  Event ID: 1074
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The process msiexec.exe has initiated the reboot of computer XP-FF3F6B62E8AB on behalf of user 02000380 for the following reason: No title for this reason could be found
+ Reason Code: 0x2
+ Shutdown Type: reboot
+ Comment: The Windows Installer initiated a system restart to complete or continue the configuration of 'VMware Tools'.
+
+Event[196]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:45:42.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Windows Installer service entered the stopped state.
+
+Event[197]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: EventLog
+  Date: 2012-09-30T12:45:46.000
+  Event ID: 6006
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Event log service was stopped.
+
+Event[198]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: EventLog
+  Date: 2012-09-30T12:46:07.000
+  Event ID: 6009
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+Microsoft (R) Windows (R) 5.01. 2600 Service Pack 2 Uniprocessor Free.
+
+Event[199]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: EventLog
+  Date: 2012-09-30T12:46:07.000
+  Event ID: 6005
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Event log service was started.
+
+Event[200]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Tcpip
+  Date: 2012-09-30T12:46:13.000
+  Event ID: 4201
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The system detected that network adapter \DEVICE\TCPIP_{DCBCED52-DEB9-42B3-89B6-6D0C749FF1ED} was connected to the network, and has initiated normal operation.
+
+Event[201]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:46:21.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Terminal Services service entered the running state.
+
+Event[202]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:46:21.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Fast User Switching Compatibility service was successfully sent a start control.
+
+Event[203]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:46:21.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The SSDP Discovery Service service was successfully sent a start control.
+
+Event[204]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:46:21.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Network Location Awareness (NLA) service was successfully sent a start control.
+
+Event[205]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:46:21.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The SSDP Discovery Service service entered the running state.
+
+Event[206]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:46:21.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Fast User Switching Compatibility service entered the running state.
+
+Event[207]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:46:21.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Network Location Awareness (NLA) service entered the running state.
+
+Event[208]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:46:21.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Telephony service entered the running state.
+
+Event[209]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:46:21.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-21-861567501-682003330-839522115-1003
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Remote Access Connection Manager service was successfully sent a start control.
+
+Event[210]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:46:21.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Application Layer Gateway Service service was successfully sent a start control.
+
+Event[211]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:46:21.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Application Layer Gateway Service service entered the running state.
+
+Event[212]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:46:21.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Remote Access Connection Manager service entered the running state.
+
+Event[213]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: BROWSER
+  Date: 2012-09-30T12:46:44.000
+  Event ID: 8021
+  Task: N/A
+  Level: Warning
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The browser service was unable to retrieve a list of servers from the browser master \\MVISSHOOKPSX on the network \Device\NetBT_Tcpip_{DCBCED52-DEB9-42B3-89B6-6D0C749FF1ED}.
+ 
+ Browser master: \\MVISSHOOKPSX
+ Network: \Device\NetBT_Tcpip_{DCBCED52-DEB9-42B3-89B6-6D0C749FF1ED}
+ 
+ This event may be caused by a temporary loss of network connectivity. If this message appears again, verify that the server is still connected to the network. The return code is in the Data text box.
+
+Event[214]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: BROWSER
+  Date: 2012-09-30T12:48:44.000
+  Event ID: 8032
+  Task: N/A
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The browser service has failed to retrieve the backup list too many times on transport \Device\NetBT_Tcpip_{DCBCED52-DEB9-42B3-89B6-6D0C749FF1ED}. The backup browser is stopping.
+
+Event[215]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:50:21.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Windows Installer service was successfully sent a start control.
+
+Event[216]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-09-30T12:50:21.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Windows Installer service entered the running state.
+
+Event[217]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Dhcp
+  Date: 2012-12-15T09:27:41.000
+  Event ID: 1003
+  Task: None
+  Level: Warning
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[218]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Dhcp
+  Date: 2012-12-15T09:27:41.000
+  Event ID: 1000
+  Task: None
+  Level: Error
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[219]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Application Popup
+  Date: 2012-12-15T09:27:44.000
+  Event ID: 26
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+Application popup: winSudo.exe - Application Error : The application failed to initialize properly (0xc0000135). Click on OK to terminate the application. 
+
+Event[220]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: BROWSER
+  Date: 2012-12-15T09:27:52.000
+  Event ID: 8021
+  Task: N/A
+  Level: Warning
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The browser service was unable to retrieve a list of servers from the browser master \\MVISSHOOKPSX on the network \Device\NetBT_Tcpip_{DCBCED52-DEB9-42B3-89B6-6D0C749FF1ED}.
+ 
+ Browser master: \\MVISSHOOKPSX
+ Network: \Device\NetBT_Tcpip_{DCBCED52-DEB9-42B3-89B6-6D0C749FF1ED}
+ 
+ This event may be caused by a temporary loss of network connectivity. If this message appears again, verify that the server is still connected to the network. The return code is in the Data text box.
+
+Event[221]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2012-12-15T09:28:06.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Windows Installer service entered the stopped state.
+
+Event[222]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Application Popup
+  Date: 2012-12-15T09:28:27.000
+  Event ID: 26
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+Application popup: winSudo.exe - Application Error : The application failed to initialize properly (0xc0000135). Click on OK to terminate the application. 
+
+Event[223]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Application Popup
+  Date: 2012-12-15T09:28:30.000
+  Event ID: 26
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+Application popup: winSudo.exe - Application Error : The application failed to initialize properly (0xc0000135). Click on OK to terminate the application. 
+
+Event[224]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: BROWSER
+  Date: 2013-01-21T09:07:33.000
+  Event ID: 8032
+  Task: N/A
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The browser service has failed to retrieve the backup list too many times on transport \Device\NetBT_Tcpip_{DCBCED52-DEB9-42B3-89B6-6D0C749FF1ED}. The backup browser is stopping.
+
+Event[225]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Dhcp
+  Date: 2013-01-21T09:20:12.000
+  Event ID: 1003
+  Task: None
+  Level: Warning
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[226]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Dhcp
+  Date: 2013-01-21T09:20:12.000
+  Event ID: 1000
+  Task: None
+  Level: Error
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[227]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: W32Time
+  Date: 2013-01-21T09:20:34.000
+  Event ID: 35
+  Task: None
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[228]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2013-03-06T11:22:39.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-21-861567501-682003330-839522115-1003
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Remote Access Auto Connection Manager service was successfully sent a start control.
+
+Event[229]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2013-03-06T11:22:39.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Remote Access Auto Connection Manager service entered the running state.
+
+Event[230]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2013-03-06T11:22:56.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-21-861567501-682003330-839522115-1003
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The OfficeScan Support service was successfully sent a start control.
+
+Event[231]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2013-03-06T11:22:56.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The OfficeScan Support service entered the running state.
+
+Event[232]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2013-03-06T11:23:03.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-21-861567501-682003330-839522115-1003
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The ASP.NET Services service was successfully sent a start control.
+
+Event[233]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2013-03-06T11:23:03.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The IPSEC Services service was successfully sent a stop control.
+
+Event[234]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2013-03-06T11:23:03.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The ASP.NET Services service entered the running state.
+
+Event[235]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2013-03-06T11:23:03.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The IPSEC Services service entered the stopped state.
+
+Event[236]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: EventLog
+  Date: 2013-03-06T11:27:47.000
+  Event ID: 6009
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+Microsoft (R) Windows (R) 5.01. 2600 Service Pack 2 Uniprocessor Free.
+
+Event[237]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: EventLog
+  Date: 2013-03-06T11:27:47.000
+  Event ID: 6005
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Event log service was started.
+
+Event[238]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Save Dump
+  Date: 2013-03-06T11:27:49.000
+  Event ID: 1001
+  Task: None
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[239]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Tcpip
+  Date: 2013-03-06T11:27:54.000
+  Event ID: 4201
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The system detected that network adapter \DEVICE\TCPIP_{DCBCED52-DEB9-42B3-89B6-6D0C749FF1ED} was connected to the network, and has initiated normal operation.
+
+Event[240]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2013-03-06T11:28:17.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Terminal Services service entered the running state.
+
+Event[241]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2013-03-06T11:28:17.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Fast User Switching Compatibility service was successfully sent a start control.
+
+Event[242]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2013-03-06T11:28:17.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Fast User Switching Compatibility service entered the running state.
+
+Event[243]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2013-03-06T11:28:17.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Network Location Awareness (NLA) service was successfully sent a start control.
+
+Event[244]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2013-03-06T11:28:17.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Network Location Awareness (NLA) service entered the running state.
+
+Event[245]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2013-03-06T11:28:17.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The SSDP Discovery Service service was successfully sent a start control.
+
+Event[246]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2013-03-06T11:28:17.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The SSDP Discovery Service service entered the running state.
+
+Event[247]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2013-03-06T11:28:20.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Telephony service entered the running state.
+
+Event[248]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2013-03-06T11:28:20.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-21-861567501-682003330-839522115-1003
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Remote Access Connection Manager service was successfully sent a start control.
+
+Event[249]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2013-03-06T11:28:20.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Application Layer Gateway Service service was successfully sent a start control.
+
+Event[250]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2013-03-06T11:28:20.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Application Layer Gateway Service service entered the running state.
+
+Event[251]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2013-03-06T11:28:20.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Remote Access Connection Manager service entered the running state.
+
+Event[252]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: EventLog
+  Date: 2013-03-06T11:29:50.000
+  Event ID: 6009
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+Microsoft (R) Windows (R) 5.01. 2600 Service Pack 2 Uniprocessor Free.
+
+Event[253]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: EventLog
+  Date: 2013-03-06T11:29:50.000
+  Event ID: 6005
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Event log service was started.
+
+Event[254]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Tcpip
+  Date: 2013-03-06T11:29:58.000
+  Event ID: 4201
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The system detected that network adapter \DEVICE\TCPIP_{DCBCED52-DEB9-42B3-89B6-6D0C749FF1ED} was connected to the network, and has initiated normal operation.
+
+Event[255]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2013-03-06T11:30:17.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Terminal Services service entered the running state.
+
+Event[256]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2013-03-06T11:30:17.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Fast User Switching Compatibility service was successfully sent a start control.
+
+Event[257]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2013-03-06T11:30:17.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Fast User Switching Compatibility service entered the running state.
+
+Event[258]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2013-03-06T11:30:17.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Network Location Awareness (NLA) service was successfully sent a start control.
+
+Event[259]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2013-03-06T11:30:17.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Network Location Awareness (NLA) service entered the running state.
+
+Event[260]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2013-03-06T11:30:17.000
+  Event ID: 7035
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The SSDP Discovery Service service was successfully sent a start control.
+
+Event[261]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2013-03-06T11:30:17.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The SSDP Discovery Service service entered the running state.
+
+Event[262]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_System.evt
+  Source: Service Control Manager
+  Date: 2013-03-06T11:30:17.000
+  Event ID: 7036
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Remote Access Connection Manager service entered the running state.
+

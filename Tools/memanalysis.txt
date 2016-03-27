@@ -1,0 +1,67 @@
+Volatility Foundation Volatility Framework 2.5
+INFO    : volatility.debug    : Determining profile based on KDBG search...
+          Suggested Profile(s) : Win2008R2SP0x64, Win7SP1x64, Win7SP0x64, Win2008R2SP1x64
+                     AS Layer1 : AMD64PagedMemory (Kernel AS)
+                     AS Layer2 : FileAddressSpace (Win7\WIN-HU599V0TS73-20160314-220832.raw)
+                      PAE type : No PAE
+                           DTB : 0x187000L
+                          KDBG : 0xf80002c4d0a0L
+          Number of Processors : 1
+     Image Type (Service Pack) : 1
+                KPCR for CPU 0 : 0xfffff80002c4ed00L
+             KUSER_SHARED_DATA : 0xfffff78000000000L
+           Image date and time : 2016-03-14 22:08:33 UTC+0000
+     Image local date and time : 2016-03-14 18:08:33 -0400
+
+volatility\volatility-25.exe -f WIN-HU599V0TS73-20160314-220832.raw imageinfo --profile=Win7SP1x64 --kdbg=0xf80002c4d0a0 >> .\analysis\imageinfo.txt
+volatility\volatility-25.exe -f WIN-HU599V0TS73-20160314-220832.raw psscan --profile=Win7SP1x64 --kdbg=0xf80002c4d0a0 >> .\analysis\psscan.txt
+volatility\volatility-25.exe -f WIN-HU599V0TS73-20160314-220832.raw pslist --profile=Win7SP1x64 --kdbg=0xf80002c4d0a0 >> .\analysis\pslist.txt
+volatility\volatility-25.exe -f WIN-HU599V0TS73-20160314-220832.raw pstree --profile=Win7SP1x64 --kdbg=0xf80002c4d0a0 >> .\analysis\pstree.txt
+volatility\volatility-25.exe -f WIN-HU599V0TS73-20160314-220832.raw dlllist --profile=Win7SP1x64 --kdbg=0xf80002c4d0a0 >> .\analysis\dlllist.txt
+volatility\volatility-25.exe -f WIN-HU599V0TS73-20160314-220832.raw ldrmodules --profile=Win7SP1x64 --kdbg=0xf80002c4d0a0 >> .\analysis\ldrmodules.txt
+volatility\volatility-25.exe -f WIN-HU599V0TS73-20160314-220832.raw handles --profile=Win7SP1x64 --kdbg=0xf80002c4d0a0 >> .\analysis\handles.txt
+volatility\volatility-25.exe -f WIN-HU599V0TS73-20160314-220832.raw getsids --profile=Win7SP1x64 --kdbg=0xf80002c4d0a0 >> .\analysis\sids.txt
+volatility\volatility-25.exe -f WIN-HU599V0TS73-20160314-220832.raw filescan --profile=Win7SP1x64 --kdbg=0xf80002c4d0a0 >> .\analysis\filescan.txt
+volatility\volatility-25.exe -f WIN-HU599V0TS73-20160314-220832.raw mutantscan --profile=Win7SP1x64 --kdbg=0xf80002c4d0a0 >> .\analysis\mutantscan.txt
+volatility\volatility-25.exe -f WIN-HU599V0TS73-20160314-220832.raw netscan --profile=Win7SP1x64 --kdbg=0xf80002c4d0a0 >> .\analysis\netscan.txt
+volatility\volatility-25.exe -f WIN-HU599V0TS73-20160314-220832.raw connections --profile=Win7SP1x64 --kdbg=0xf80002c4d0a0 >> .\analysis\connections.txt
+volatility\volatility-25.exe -f WIN-HU599V0TS73-20160314-220832.raw connscan --profile=Win7SP1x64 --kdbg=0xf80002c4d0a0 >> .\analysis\connscan.txt
+volatility\volatility-25.exe -f WIN-HU599V0TS73-20160314-220832.raw sockets --profile=Win7SP1x64 --kdbg=0xf80002c4d0a0 >> .\analysis\sockets.txt
+volatility\volatility-25.exe -f WIN-HU599V0TS73-20160314-220832.raw sockscan --profile=Win7SP1x64 --kdbg=0xf80002c4d0a0 >> .\analysis\sockscan.txt
+volatility\volatility-25.exe -f WIN-HU599V0TS73-20160314-220832.raw svcscan --profile=Win7SP1x64 --kdbg=0xf80002c4d0a0 >> .\analysis\svcscan.txt
+volatility\volatility-25.exe -f WIN-HU599V0TS73-20160314-220832.raw malfind --profile=Win7SP1x64 --kdbg=0xf80002c4d0a0 >> .\analysis\malfind.txt
+volatility\volatility-25.exe -f WIN-HU599V0TS73-20160314-220832.raw timers --profile=Win7SP1x64 --kdbg=0xf80002c4d0a0 >> .\analysis\timers.txt
+volatility\volatility-25.exe -f WIN-HU599V0TS73-20160314-220832.raw malfind --profile=Win7SP1x64 --kdbg=0xf80002c4d0a0 >> .\analysis\malfind.txt
+volatility\volatility-25.exe -f WIN-HU599V0TS73-20160314-220832.raw mftparser --profile=Win7SP1x64 --kdbg=0xf80002c4d0a0 >> .\analysis\mft.txt
+volatility\volatility-25.exe -f WIN-HU599V0TS73-20160314-220832.raw shimcache --profile=Win7SP1x64 --kdbg=0xf80002c4d0a0 >> .\analysis\shimcache.txt
+volatility\volatility-25.exe -f WIN-HU599V0TS73-20160314-220832.raw consoles --profile=Win7SP1x64 --kdbg=0xf80002c4d0a0 >> .\analysis\consoles.txt
+volatility\volatility-25.exe -f WIN-HU599V0TS73-20160314-220832.raw cmdscan --profile=Win7SP1x64 --kdbg=0xf80002c4d0a0 >> .\analysis\cmdscan.txt
+volatility\volatility-25.exe -f WIN-HU599V0TS73-20160314-220832.raw yarascan -Y "myintelligence" --profile=Win7SP1x64 --kdbg=0xf80002c4d0a0 >> .\analysis\found.txt
+volatility\volatility-25.exe -f WIN-HU599V0TS73-20160314-220832.raw hivelist --profile=Win7SP1x64 --kdbg=0xf80002c4d0a0 >> .\analysis\hivelist.txt
+volatility\volatility-25.exe -f WIN-HU599V0TS73-20160314-220832.raw printkey -K "Software\Microsoft\Windows\CurrentVersion\Run" --profile=Win7SP1x64 --kdbg=0xf80002c4d0a0 >> .\analysis\runkeys.txt
+volatility\volatility-25.exe -f WIN-HU599V0TS73-20160314-220832.raw printkey -K "Software\Microsoft\Windows\CurrentVersion\RunOnce" --profile=Win7SP1x64 --kdbg=0xf80002c4d0a0 >> .\analysis\runoncekeys.txt
+volatility\volatility-25.exe -f WIN-HU599V0TS73-20160314-220832.raw printkey -K "ControlSet001\Services" --profile=Win7SP1x64 --kdbg=0xf80002c4d0a0 >> .\analysis\servicekeys.txt
+volatility\volatility-25.exe -f WIN-HU599V0TS73-20160314-220832.raw strings -s mem.txt --profile=Win7SP1x64 --kdbg=0xf80002c4d0a0 >> .\analysis\strings.txt
+volatility\volatility-25.exe -f WIN-HU599V0TS73-20160314-220832.raw dlldump -D .\analysis\dll --profile=Win7SP1x64 --kdbg=0xf80002c4d0a0
+
+volatility\volatility-25.exe -f WIN-HU599V0TS73-20160314-220832.raw --profile=Win7SP1x64 --kdbg=0xf80002c4d0a0 dumpfiles --regex .evtx$ --ignore-case --dump-dir .\analysis\evt 
+volatility\volatility-25.exe -f WIN-HU599V0TS73-20160314-220832.raw vaddump -p 2708 -D .\analysis\procs\ --profile=Win7SP1x64 --kdbg=0xf80002c4d0a0 
+volatility\volatility-25.exe -f WIN-HU599V0TS73-20160314-220832.raw iehistory --profile=Win7SP1x64 --kdbg=0xf80002c4d0a0 --output=csv --output-file=.\analysis\iehistory.csv  
+
+
+for /f %i in (procs.txt) do @volatility\volatility-25.exe -f WIN-HU599V0TS73-20160314-220832.raw memdump -p %i -D .\analysis\procs\%i --profile=Win7SP1x64 --kdbg=0xf80002c4d0a0
+
+for /f %i in (procs.txt) do @sysinternalssuite\strings.exe .\analysis\procs\%i\%i.dmp > .\analysis\procs\%i.txt
+
+
+
+volatility\volatility-25.exe -f WIN-HU599V0TS73-20160314-220832.raw --profile=Win7SP1x64 --kdbg=0xf80002c4d0a0 memdump -p 8076 -D .\analysis\procs\
+volatility\volatility-25.exe -f WIN-HU599V0TS73-20160314-220832.raw --profile=Win7SP1x64 --kdbg=0xf80002c4d0a0 memdump -p 1192 -D .\analysis\procs\
+volatility\volatility-25.exe -f WIN-HU599V0TS73-20160314-220832.raw --profile=Win7SP1x64 --kdbg=0xf80002c4d0a0 memdump -p 3712 -D .\analysis\procs\
+
+8076 c:\Users\dw84168\AppData\Local\Temp\sdfsdferfwe.exe
+1192 LanManWorkstation svchost -k netsvcs
+3712 WinVNC
+
+volatility\volatility-25.exe -f WIN-HU599V0TS73-20160314-220832.raw printkey -K "ControlSet001\Services\LanManWorkstation" --profile=Win7SP1x64 --kdbg=0xf80002c4d0a0 >> .\analysis\LMW.txt
+

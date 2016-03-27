@@ -1,0 +1,2 @@
+2016-03-14 12:42:42,746 +++ Creating tasklist table in SQLite3 database.
+2016-03-14 12:42:42,763 +++ Closing database.

@@ -1,0 +1,19 @@
+dir /a /s /od /tc c:\ > %computername%_dir.txt
+ipconfig /displaydns > %computername%_dns.txt
+netstat -ano >> %computername%_net.txt
+tasklist /m > %computername%_task.txt
+at >> %computername%_task.txt
+schtasks >> %computername%_task.txt
+reg query hklm\software\microsoft\windows\currentversion\run /s > %computername%_reg.txt
+reg query hklm\software\microsoft\windows\currentversion\runonce /s >> %computername%_reg.txt
+reg query hklm\system\currentcontrolset\services /s >> %computername%_reg.txt
+reg query hklm\system\controlset001\services /s >> %computername%_reg.txt
+reg query hklm\system\controlset002\services /s >> %computername%_reg.txt
+echo .Set DiskDirectory1=c:\ > f.txt 
+echo .Set CabinetNameTemplate= %computername%.cab >> f.txt
+dir /a /b %computername%*.txt >> f.txt
+makecab /f f.txt
+del %computername%*.txt
+del f.txt
+del setup.inf
+del setup.rpt

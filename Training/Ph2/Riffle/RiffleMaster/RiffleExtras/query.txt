@@ -1,0 +1,173 @@
+Select * from mft f1 
+where (select count(1) from mft f2 where (f1.Filename = f2.filename) and ext like 'dll' > 1)
+
+
+
+NOTES: How To Compare Files(%.exe and %.dll) in System32 that are not in cache folder with files in reg
+######
+# 1.
+######
+Extracting (host, date, time, directory, file_name size) of cmd.exe from dir table to get a list of all paths in which cmd.exe occurs 2 or more times. (trying to get cache folder location).
+
+/usr/bin/mysql --local-infile=1 --user=UUUUUUUUU --password=PPPPPPPPP --host=x.x.x.x  -B --silent -e "SELECT log_file FROM siem_db.parsed_logfiles WHERE file_type = 'dir' and ts_date > '20120720' ORDER BY ts_date DESC"|sed -e 's/_/-/g'|awk -F'-' '{print $1 "," $2 "," $3}'|while read FILE;do DATE_I=`echo $FILE|awk -F',' '{print $1}'`;TIME_I=`echo $FILE|awk -F',' '{print $2}'`;HOST_I=`echo $FILE|awk -F',' '{print $3}'`;/usr/bin/mysql --local-infile=1 --user=UUUUUUUUU --password=PPPPPPPPP --host=x.x.x.x  -B --silent -e "SELECT host, date, time, directory, file_name, size from siem_db.dir WHERE host = '$HOST_I' and date = '$DATE_I' and time='$TIME_I' and file_name = 'cmd.exe' and (size IN (SELECT size FROM siem_db.dir WHERE host = '$HOST_I'  and date = '$DATE_I'  and time='$TIME_I'  and file_name = 'cmd.exe' GROUP BY size 
+HAVING (count(size) > 1)))" ;done > 20120813-host_OS_INSTALL_PATH_list.txt 
+
+****************************************************************************
+######
+# 2.
+######
+Massaged 20120813-host_OS_INSTALL_PATH_list.txt (had dups because of multiple loads of dir for one host. I needed better logic for step #1 to get rid of dups and split out system32 / cache into separate files). 
+
+Created 2 files:
+-list of hosts w/ system32 folder as directory
+-list of hosts w/ cache folder as directory
+
+****************************************************************************
+######
+# 3.
+######
+Used below to extract all .exe and .dll from  system32 (tempdir) using file from step 2:
+
+use siem_db;
+drop table tempdir;
+create table if not exists tempdir (
+        log_file varchar(512), INDEX log_file_i USING BTREE (log_file), 
+    date varchar(20), INDEX date_i USING BTREE (date),
+    time varchar(20), INDEX time_i USING BTREE (time),
+    host varchar(20), INDEX host_i USING BTREE (host),
+        line_num int,
+        time_stamp varchar(50), INDEX time_stamp_i USING BTREE (time_stamp),
+        directory varchar(512), INDEX directory_i USING BTREE (directory),
+        file_name varchar(512), INDEX file_name_i USING BTREE (file_name),
+        size varchar(50), INDEX size_i USING BTREE (size)
+);
+
+/usr/bin/mysql --local-infile=1 --user=UUUUUUUUU --password=PPPPPPPPP --host=x.x.x.x -B --silent -e "INSERT INTO siem_db.tempdir (log_file, date, time, host, line_num, time_stamp, directory, file_name, size)  SELECT * from siem_db.dir WHERE host = '$HOST_I' AND date = '$DATE_I' AND time = '$TIME_I' AND directory = '$DIRECTORY_I' AND (file_name LIKE '%.exe' or file_name like '%.dll')"
+
+****************************************************************************
+######
+# 4.
+######
+
+Used below to extract all .exe and .dll from  cache folder (tempdir2) using file from step 2:
+
+use siem_db;
+drop table tempdir2;
+create table if not exists tempdir2 (
+        log_file varchar(512), INDEX log_file_i USING BTREE (log_file), 
+    date varchar(20), INDEX date_i USING BTREE (date),
+    time varchar(20), INDEX time_i USING BTREE (time),
+    host varchar(20), INDEX host_i USING BTREE (host),
+        line_num int,
+        time_stamp varchar(50), INDEX time_stamp_i USING BTREE (time_stamp),
+        directory varchar(512), INDEX directory_i USING BTREE (directory),
+        file_name varchar(512), INDEX file_name_i USING BTREE (file_name),
+        size varchar(50), INDEX size_i USING BTREE (size)
+);
+
+/usr/bin/mysql --local-infile=1 --user=UUUUUUUUU --password=PPPPPPPPP --host=x.x.x.x -B --silent -e "INSERT INTO siem_db.tempdir2 (log_file, date, time, host, line_num, time_stamp, directory, file_name, size)  SELECT * from siem_db.dir WHERE host = '$HOST_I' AND date = '$DATE_I' AND time = '$TIME_I' AND directory = '$DIRECTORY_I' AND (file_name LIKE '%.exe' or file_name like '%.dll')"
+
+****************************************************************************
+######
+# 5.
+######
+
+Used below to create a tempdir_md5 (same as tempdir but with md5 hashes):
+
+use siem_db;
+drop table tempdir_md5;
+create table if not exists tempdir_md5 (
+        log_file varchar(512), INDEX log_file_i USING BTREE (log_file), 
+    date varchar(20), INDEX date_i USING BTREE (date),
+    time varchar(20), INDEX time_i USING BTREE (time),
+    host varchar(20), INDEX host_i USING BTREE (host),
+        line_num int,
+        time_stamp varchar(50), INDEX time_stamp_i USING BTREE (time_stamp),
+        directory varchar(512), INDEX directory_i USING BTREE (directory),
+        file_name varchar(512), INDEX file_name_i USING BTREE (file_name),
+        size varchar(50), INDEX size_i USING BTREE (size),
+    md5_value varchar(32), INDEX md5_value_i USING BTREE (md5_value)
+);
+
+INSERT INTO siem_db.tempdir_md5 (log_file, date, time, host, line_num, time_stamp, directory, file_name, size, md5_value)
+ SELECT log_file, date, time, host, line_num, time_stamp, directory, file_name, size, MD5(CONCAT(date, time, host, time_stamp, file_name, size)) FROM siem_db.tempdir
+
+****************************************************************************
+######
+# 6.
+######
+
+Used below to create a tempdir2_md5 (same as tempdir2 but with md5 hashes):
+
+use siem_db;
+drop table tempdir2_md5;
+create table if not exists tempdir2_md5 (
+        log_file varchar(512), INDEX log_file_i USING BTREE (log_file), 
+    date varchar(20), INDEX date_i USING BTREE (date),
+    time varchar(20), INDEX time_i USING BTREE (time),
+    host varchar(20), INDEX host_i USING BTREE (host),
+        line_num int,
+        time_stamp varchar(50), INDEX time_stamp_i USING BTREE (time_stamp),
+        directory varchar(512), INDEX directory_i USING BTREE (directory),
+        file_name varchar(512), INDEX file_name_i USING BTREE (file_name),
+        size varchar(50), INDEX size_i USING BTREE (size),
+    md5_value varchar(32), INDEX md5_value_i USING BTREE (md5_value)
+);
+
+INSERT INTO siem_db.tempdir2_md5 (log_file, date, time, host, line_num, time_stamp, directory, file_name, size, md5_value)
+ SELECT log_file, date, time, host, line_num, time_stamp, directory, file_name, size, MD5(CONCAT(date, time, host, time_stamp, file_name, size)) FROM siem_db.tempdir2
+
+
+*****************************************************************************************************************
+* NOTE: I could have done away with steps #3 and #4 by using one of the two below INSERT examples directly from dir into
+* tempdir_md5 
+**************
+INSERT INTO siem_db.tempdir_md5 (log_file, date, time, host, line_num, time_stamp, directory, file_name, size) SELECT *, MD5(CONCAT(date, time, host, time_stamp, file_name, size)) from siem_db.dir WHERE host = '$HOST_I' AND date = '$DATE_I' AND time = '$TIME_I' AND directory = '$DIRECTORY_I' AND (file_name LIKE '%.exe' or file_name like '%.dll')
+
+INSERT INTO siem_db.tempdir2_md5 (log_file, date, time, host, line_num, time_stamp, directory, file_name, size) SELECT *, MD5(CONCAT(date, time, host, time_stamp, file_name, size)) from siem_db.dir WHERE host = '$HOST_I' AND date = '$DATE_I' AND time = '$TIME_I' AND directory = '$DIRECTORY_I' AND (file_name LIKE '%.exe' or file_name like '%.dll')
+
+Of even simplier:
+
+INSERT INTO siem_db.tempdir_md5 (log_file, date, time, host, line_num, time_stamp, directory, file_name, size, md5_value)
+ SELECT *, MD5(CONCAT(date, time, host, time_stamp, file_name, size)) FROM siem_db.tempdir
+
+INSERT INTO siem_db.tempdir2_md5 (log_file, date, time, host, line_num, time_stamp, directory, file_name, size, md5_value)
+ SELECT *, MD5(CONCAT(date, time, host, time_stamp, file_name, size)) FROM siem_db.tempdir2
+
+****************************************************************************
+######
+# 7.
+######
+
+Create table (system32_hits) and populate with list of files in system32 (tempdir_md5) but not in cache folder (tempdir2_md5)
+
+use siem_db;
+drop table system32_hits;
+create table if not exists system32_hits (
+        log_file varchar(512), INDEX log_file_i USING BTREE (log_file), 
+    date varchar(20), INDEX date_i USING BTREE (date),
+    time varchar(20), INDEX time_i USING BTREE (time),
+    host varchar(20), INDEX host_i USING BTREE (host),
+        line_num int,
+        time_stamp varchar(50), INDEX time_stamp_i USING BTREE (time_stamp),
+        directory varchar(512), INDEX directory_i USING BTREE (directory),
+        file_name varchar(512), INDEX file_name_i USING BTREE (file_name),
+        size varchar(50), INDEX size_i USING BTREE (size),
+    md5_value varchar(32), INDEX md5_value_i USING BTREE (md5_value)
+);
+
+INSERT INTO siem_db.system32_hits (log_file, date, time, host, line_num, time_stamp, directory, file_name, size, md5_value)
+ SELECT * FROM tempdir_md5 WHERE NOT EXISTS (SELECT 1 FROM tempdir2_md5 WHERE tempdir_md5.md5_value = tempdir2_md5.md5_value)
+
+****************************************************************************
+######
+# 8.
+######
+
+Get list of system32_hits records where file is found in reg table:
+
+SELECT * FROM siem_db.system32_hits, siem_db.reg WHERE reg.date = system32_hits.date AND reg.time = system32_hits.time AND reg.host = system32_hits.host AND substring_index(`reference`,'\\',-1) = system32_hits.file_name
+
+****************************************************************************
+****************************************************************************
+

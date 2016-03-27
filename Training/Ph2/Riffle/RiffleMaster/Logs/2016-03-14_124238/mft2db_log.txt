@@ -1,0 +1,2 @@
+2016-03-14 12:42:41,956 +++ Creating mft table in SQLite3 database.
+2016-03-14 12:42:42,513 +++ Closing database.

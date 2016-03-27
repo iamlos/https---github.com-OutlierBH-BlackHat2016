@@ -1,0 +1,1797 @@
+Event[0]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: LoadPerf
+  Date: 2010-04-20T22:21:42.000
+  Event ID: 1000
+  Task: None
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[1]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: LoadPerf
+  Date: 2010-04-20T22:21:43.000
+  Event ID: 1000
+  Task: None
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[2]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: LoadPerf
+  Date: 2010-04-20T22:22:10.000
+  Event ID: 1000
+  Task: None
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[3]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: LoadPerf
+  Date: 2010-04-20T22:26:53.000
+  Event ID: 1000
+  Task: None
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[4]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: LoadPerf
+  Date: 2010-04-20T22:26:57.000
+  Event ID: 1000
+  Task: None
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[5]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: MSDTC
+  Date: 2010-04-20T22:26:58.000
+  Event ID: 4104
+  Task: Devices
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[6]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: MSDTC
+  Date: 2010-04-20T22:26:59.000
+  Event ID: 2444
+  Task: Disk
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[7]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: LoadPerf
+  Date: 2010-04-20T22:27:21.000
+  Event ID: 1000
+  Task: None
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[8]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: LoadPerf
+  Date: 2010-04-20T22:27:22.000
+  Event ID: 1001
+  Task: None
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[9]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: LoadPerf
+  Date: 2010-04-20T22:27:22.000
+  Event ID: 1000
+  Task: None
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[10]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: WinMgmt
+  Date: 2010-04-20T22:27:34.000
+  Event ID: 63
+  Task: None
+  Level: Warning
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[11]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: WinMgmt
+  Date: 2010-04-20T22:27:36.000
+  Event ID: 63
+  Task: None
+  Level: Warning
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[12]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: WinMgmt
+  Date: 2010-04-20T22:27:36.000
+  Event ID: 63
+  Task: None
+  Level: Warning
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[13]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: LoadPerf
+  Date: 2010-04-20T22:27:40.000
+  Event ID: 1000
+  Task: None
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[14]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: LoadPerf
+  Date: 2010-04-20T22:27:40.000
+  Event ID: 1000
+  Task: None
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[15]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: LoadPerf
+  Date: 2010-04-20T22:27:40.000
+  Event ID: 1000
+  Task: None
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[16]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: WinMgmt
+  Date: 2010-04-20T22:32:02.000
+  Event ID: 5603
+  Task: None
+  Level: Warning
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[17]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: WinMgmt
+  Date: 2010-04-20T22:32:02.000
+  Event ID: 5603
+  Task: None
+  Level: Warning
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[18]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: COM+
+  Date: 2010-04-20T22:32:09.000
+  Event ID: 4156
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[19]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: COM+
+  Date: 2010-04-20T22:32:09.000
+  Event ID: 4156
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[20]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: COM+
+  Date: 2010-04-20T22:32:09.000
+  Event ID: 4156
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[21]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: COM+
+  Date: 2010-04-20T22:32:09.000
+  Event ID: 4156
+  Task: N/A
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[22]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: WmdmPmSN
+  Date: 2010-04-20T22:32:31.000
+  Event ID: 100
+  Task: None
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[23]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: SceCli
+  Date: 2010-04-20T22:33:25.000
+  Event ID: 1500
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+Security configuration was backed up to C:\WINDOWS\security\templates\setup security.inf.
+
+Event[24]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: SecurityCenter
+  Date: 2010-04-20T22:38:36.000
+  Event ID: 1800
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[25]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: ESENT
+  Date: 2010-04-20T22:39:22.000
+  Event ID: 100
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+wuauclt (1488) The database engine 5.01.2600.2180 started.
+
+Event[26]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: ESENT
+  Date: 2010-04-20T22:39:22.000
+  Event ID: 102
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+wuaueng.dll (1488) SUS20ClientDataStore: The database engine (%5.%6.%7.%8) started a new instance (%4).
+
+Event[27]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: MsiInstaller
+  Date: 2010-04-20T22:40:08.000
+  Event ID: 11707
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: S-1-5-21-861567501-682003330-839522115-1003
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+Product: WebFldrs XP -- Installation operation completed successfully.
+
+Event[28]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: LoadPerf
+  Date: 2010-04-20T22:40:16.000
+  Event ID: 1001
+  Task: None
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[29]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: LoadPerf
+  Date: 2010-04-20T22:40:18.000
+  Event ID: 1000
+  Task: None
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[30]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: crypt32
+  Date: 2012-09-17T16:29:24.000
+  Event ID: 8
+  Task: None
+  Level: Error
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[31]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: SecurityCenter
+  Date: 2012-09-17T16:29:25.000
+  Event ID: 1800
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[32]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: ESENT
+  Date: 2012-09-17T16:30:05.000
+  Event ID: 100
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+wuauclt (460) The database engine 5.01.2600.2180 started.
+
+Event[33]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: ESENT
+  Date: 2012-09-17T16:30:05.000
+  Event ID: 102
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+wuaueng.dll (460) SUS20ClientDataStore: The database engine (%5.%6.%7.%8) started a new instance (%4).
+
+Event[34]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: VMTools
+  Date: 2012-09-17T16:30:15.000
+  Event ID: 105
+  Task: None
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[35]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: MsiInstaller
+  Date: 2012-09-17T16:30:25.000
+  Event ID: 11707
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: S-1-5-21-861567501-682003330-839522115-1003
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+Product: VMware Tools -- Installation operation completed successfully.
+
+Event[36]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: MsiInstaller
+  Date: 2012-09-17T16:30:25.000
+  Event ID: 1005
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: S-1-5-21-861567501-682003330-839522115-1003
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Windows Installer initiated a system restart to complete or continue the configuration of 'VMware Tools'.
+
+Event[37]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: VMTools
+  Date: 2012-09-17T16:31:56.000
+  Event ID: 105
+  Task: None
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[38]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: SecurityCenter
+  Date: 2012-09-17T16:32:04.000
+  Event ID: 1800
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[39]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: ESENT
+  Date: 2012-09-17T16:32:47.000
+  Event ID: 100
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+wuauclt (900) The database engine 5.01.2600.2180 started.
+
+Event[40]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: ESENT
+  Date: 2012-09-17T16:32:47.000
+  Event ID: 102
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+wuaueng.dll (900) SUS20ClientDataStore: The database engine (%5.%6.%7.%8) started a new instance (%4).
+
+Event[41]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: ESENT
+  Date: 2012-09-17T16:37:47.000
+  Event ID: 103
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+wuaueng.dll (900) SUS20ClientDataStore: The database engine stopped the instance (0).
+
+Event[42]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: ESENT
+  Date: 2012-09-17T16:37:47.000
+  Event ID: 101
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+wuauclt (900) The database engine stopped.
+
+Event[43]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: VMTools
+  Date: 2012-09-27T15:01:35.000
+  Event ID: 105
+  Task: None
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[44]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: SecurityCenter
+  Date: 2012-09-27T15:01:44.000
+  Event ID: 1800
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[45]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: ESENT
+  Date: 2012-09-27T15:02:27.000
+  Event ID: 100
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+wuauclt (1596) The database engine 5.01.2600.2180 started.
+
+Event[46]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: ESENT
+  Date: 2012-09-27T15:02:27.000
+  Event ID: 102
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+wuaueng.dll (1596) SUS20ClientDataStore: The database engine (%5.%6.%7.%8) started a new instance (%4).
+
+Event[47]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: ESENT
+  Date: 2012-09-27T15:07:27.000
+  Event ID: 103
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+wuaueng.dll (1596) SUS20ClientDataStore: The database engine stopped the instance (0).
+
+Event[48]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: ESENT
+  Date: 2012-09-27T15:07:27.000
+  Event ID: 101
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+wuauclt (1596) The database engine stopped.
+
+Event[49]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: VMTools
+  Date: 2012-09-27T16:20:58.000
+  Event ID: 105
+  Task: None
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[50]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: SecurityCenter
+  Date: 2012-09-27T16:21:11.000
+  Event ID: 1800
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[51]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: ESENT
+  Date: 2012-09-27T16:21:52.000
+  Event ID: 100
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+wuauclt (764) The database engine 5.01.2600.2180 started.
+
+Event[52]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: ESENT
+  Date: 2012-09-27T16:21:52.000
+  Event ID: 102
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+wuaueng.dll (764) SUS20ClientDataStore: The database engine (%5.%6.%7.%8) started a new instance (%4).
+
+Event[53]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: ESENT
+  Date: 2012-09-27T16:26:57.000
+  Event ID: 103
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+wuaueng.dll (764) SUS20ClientDataStore: The database engine stopped the instance (0).
+
+Event[54]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: ESENT
+  Date: 2012-09-27T16:26:57.000
+  Event ID: 101
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+wuauclt (764) The database engine stopped.
+
+Event[55]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: VMTools
+  Date: 2012-09-30T12:35:38.000
+  Event ID: 105
+  Task: None
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[56]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: SecurityCenter
+  Date: 2012-09-30T12:35:54.000
+  Event ID: 1800
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[57]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: ESENT
+  Date: 2012-09-30T12:36:30.000
+  Event ID: 100
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+wuauclt (1904) The database engine 5.01.2600.2180 started.
+
+Event[58]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: ESENT
+  Date: 2012-09-30T12:36:30.000
+  Event ID: 102
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+wuaueng.dll (1904) SUS20ClientDataStore: The database engine (%5.%6.%7.%8) started a new instance (%4).
+
+Event[59]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: MsiInstaller
+  Date: 2012-09-30T12:39:53.000
+  Event ID: 11707
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: S-1-5-21-861567501-682003330-839522115-1003
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+Product: Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148 -- Installation completed successfully.
+
+Event[60]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: crypt32
+  Date: 2012-09-30T12:39:59.000
+  Event ID: 7
+  Task: None
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[61]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: crypt32
+  Date: 2012-09-30T12:40:00.000
+  Event ID: 2
+  Task: None
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[62]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: ESENT
+  Date: 2012-09-30T12:41:31.000
+  Event ID: 103
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+wuaueng.dll (1904) SUS20ClientDataStore: The database engine stopped the instance (0).
+
+Event[63]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: ESENT
+  Date: 2012-09-30T12:41:31.000
+  Event ID: 101
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+wuauclt (1904) The database engine stopped.
+
+Event[64]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: WinMgmt
+  Date: 2012-09-30T12:43:22.000
+  Event ID: 5603
+  Task: None
+  Level: Warning
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[65]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: WinMgmt
+  Date: 2012-09-30T12:43:22.000
+  Event ID: 5603
+  Task: None
+  Level: Warning
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[66]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: WinMgmt
+  Date: 2012-09-30T12:43:22.000
+  Event ID: 5603
+  Task: None
+  Level: Warning
+  Opcode: N/A
+  Keyword: Classic
+  User: S-1-5-18
+  User Name: NT AUTHORITY\SYSTEM
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[67]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: VMTools
+  Date: 2012-09-30T12:44:12.000
+  Event ID: 105
+  Task: None
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[68]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: VMware Tools
+  Date: 2012-09-30T12:44:31.000
+  Event ID: 1000
+  Task: None
+  Level: Warning
+  Opcode: Info
+  Keyword: Classic
+  User: S-1-5-21-861567501-682003330-839522115-1003
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[69]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: MsiInstaller
+  Date: 2012-09-30T12:45:41.000
+  Event ID: 11707
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: S-1-5-21-861567501-682003330-839522115-1003
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+Product: VMware Tools -- Installation operation completed successfully.
+
+Event[70]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: MsiInstaller
+  Date: 2012-09-30T12:45:41.000
+  Event ID: 1005
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: S-1-5-21-861567501-682003330-839522115-1003
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The Windows Installer initiated a system restart to complete or continue the configuration of 'VMware Tools'.
+
+Event[71]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: VMUpgradeHelper
+  Date: 2012-09-30T12:45:45.000
+  Event ID: 260
+  Task: None
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[72]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: VMUpgradeHelper
+  Date: 2012-09-30T12:45:45.000
+  Event ID: 280
+  Task: None
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[73]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: VMUpgradeHelper
+  Date: 2012-09-30T12:45:45.000
+  Event ID: 272
+  Task: None
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[74]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: VMTools
+  Date: 2012-09-30T12:45:45.000
+  Event ID: 108
+  Task: None
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[75]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: VMTools
+  Date: 2012-09-30T12:46:12.000
+  Event ID: 105
+  Task: None
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[76]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: SecurityCenter
+  Date: 2012-09-30T12:46:20.000
+  Event ID: 1800
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[77]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: VMUpgradeHelper
+  Date: 2012-09-30T12:46:22.000
+  Event ID: 258
+  Task: None
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[78]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: VMUpgradeHelper
+  Date: 2012-09-30T12:46:22.000
+  Event ID: 270
+  Task: None
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[79]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: VMUpgradeHelper
+  Date: 2012-09-30T12:46:22.000
+  Event ID: 271
+  Task: None
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[80]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: VMware Tools
+  Date: 2012-09-30T12:46:26.000
+  Event ID: 1000
+  Task: None
+  Level: Warning
+  Opcode: Info
+  Keyword: Classic
+  User: S-1-5-21-861567501-682003330-839522115-1003
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[81]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: ESENT
+  Date: 2012-09-30T12:47:01.000
+  Event ID: 100
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+wuauclt (468) The database engine 5.01.2600.2180 started.
+
+Event[82]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: ESENT
+  Date: 2012-09-30T12:47:01.000
+  Event ID: 102
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+wuaueng.dll (468) SUS20ClientDataStore: The database engine (%5.%6.%7.%8) started a new instance (%4).
+
+Event[83]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: crypt32
+  Date: 2012-09-30T12:48:51.000
+  Event ID: 4
+  Task: None
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[84]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: crypt32
+  Date: 2012-09-30T12:48:51.000
+  Event ID: 1
+  Task: None
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[85]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: MsiInstaller
+  Date: 2012-09-30T12:51:34.000
+  Event ID: 11707
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: S-1-5-21-861567501-682003330-839522115-1003
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+Product: Adobe Reader 9.5.0 -- Installation operation completed successfully.
+
+Event[86]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: ESENT
+  Date: 2012-12-15T09:18:33.000
+  Event ID: 103
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+wuaueng.dll (468) SUS20ClientDataStore: The database engine stopped the instance (0).
+
+Event[87]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: ESENT
+  Date: 2012-12-15T09:18:33.000
+  Event ID: 101
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+wuauclt (468) The database engine stopped.
+
+Event[88]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: ESENT
+  Date: 2012-12-15T09:27:41.000
+  Event ID: 100
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+wuauclt (1080) The database engine 5.01.2600.2180 started.
+
+Event[89]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: ESENT
+  Date: 2012-12-15T09:27:41.000
+  Event ID: 102
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+wuaueng.dll (1080) SUS20ClientDataStore: The database engine (%5.%6.%7.%8) started a new instance (%4).
+
+Event[90]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: ESENT
+  Date: 2013-01-21T09:10:11.000
+  Event ID: 103
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+wuaueng.dll (1080) SUS20ClientDataStore: The database engine stopped the instance (0).
+
+Event[91]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: ESENT
+  Date: 2013-01-21T09:10:11.000
+  Event ID: 101
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+wuauclt (1080) The database engine stopped.
+
+Event[92]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: ESENT
+  Date: 2013-01-21T09:20:13.000
+  Event ID: 100
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+wuauclt (988) The database engine 5.01.2600.2180 started.
+
+Event[93]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: ESENT
+  Date: 2013-01-21T09:20:13.000
+  Event ID: 102
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+wuaueng.dll (988) SUS20ClientDataStore: The database engine (%5.%6.%7.%8) started a new instance (%4).
+
+Event[94]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: ESENT
+  Date: 2013-01-21T09:25:13.000
+  Event ID: 103
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+wuaueng.dll (988) SUS20ClientDataStore: The database engine stopped the instance (0).
+
+Event[95]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: ESENT
+  Date: 2013-01-21T09:25:13.000
+  Event ID: 101
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+wuauclt (988) The database engine stopped.
+
+Event[96]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: Application Hang
+  Date: 2013-01-21T09:44:21.000
+  Event ID: 1002
+  Task: N/A
+  Level: Error
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The program pexplorer.exe version 1.99.6.1400 stopped interacting with Windows and was closed. To see if more information about the problem is available, check the problem history in the Action Center control panel.
+ Process ID: hungapp
+ Start Time: 0.0.0.0
+ Termination Time: 00000000
+ Application Path: 4170706C69636174696F6E2048616E672020706578706C6F7265722E65786520312E39392E362E3134303020696E2068756E6761707020302E302E302E30206174206F6666736574203030303030303030
+ Report Id: %7
+
+
+Event[97]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: Application Hang
+  Date: 2013-01-21T09:44:22.000
+  Event ID: 1002
+  Task: N/A
+  Level: Error
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+The program pexplorer.exe version 1.99.6.1400 stopped interacting with Windows and was closed. To see if more information about the problem is available, check the problem history in the Action Center control panel.
+ Process ID: hungapp
+ Start Time: 0.0.0.0
+ Termination Time: 00000000
+ Application Path: 4170706C69636174696F6E2048616E672020706578706C6F7265722E65786520312E39392E362E3134303020696E2068756E6761707020302E302E302E30206174206F6666736574203030303030303030
+ Report Id: %7
+
+
+Event[98]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: VMware Tools
+  Date: 2013-03-06T11:28:10.000
+  Event ID: 1000
+  Task: None
+  Level: Warning
+  Opcode: Info
+  Keyword: Classic
+  User: S-1-5-21-861567501-682003330-839522115-1003
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[99]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: VMTools
+  Date: 2013-03-06T11:28:16.000
+  Event ID: 105
+  Task: None
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[100]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: SecurityCenter
+  Date: 2013-03-06T11:28:17.000
+  Event ID: 1800
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[101]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: VMUpgradeHelper
+  Date: 2013-03-06T11:28:22.000
+  Event ID: 258
+  Task: None
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[102]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: VMUpgradeHelper
+  Date: 2013-03-06T11:28:23.000
+  Event ID: 270
+  Task: None
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[103]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: VMUpgradeHelper
+  Date: 2013-03-06T11:28:23.000
+  Event ID: 271
+  Task: None
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[104]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: ESENT
+  Date: 2013-03-06T11:29:02.000
+  Event ID: 100
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+wuauclt (812) The database engine 5.01.2600.2180 started.
+
+Event[105]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: ESENT
+  Date: 2013-03-06T11:29:02.000
+  Event ID: 102
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+wuaueng.dll (812) SUS20ClientDataStore: The database engine (%5.%6.%7.%8) started a new instance (%4).
+
+Event[106]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: VMware Tools
+  Date: 2013-03-06T11:30:07.000
+  Event ID: 1000
+  Task: None
+  Level: Warning
+  Opcode: Info
+  Keyword: Classic
+  User: S-1-5-21-861567501-682003330-839522115-1003
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[107]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: VMTools
+  Date: 2013-03-06T11:30:16.000
+  Event ID: 105
+  Task: None
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[108]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: SecurityCenter
+  Date: 2013-03-06T11:30:17.000
+  Event ID: 1800
+  Task: N/A
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[109]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: VMUpgradeHelper
+  Date: 2013-03-06T11:30:18.000
+  Event ID: 258
+  Task: None
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[110]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: VMUpgradeHelper
+  Date: 2013-03-06T11:30:18.000
+  Event ID: 270
+  Task: None
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[111]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: VMUpgradeHelper
+  Date: 2013-03-06T11:30:18.000
+  Event ID: 271
+  Task: None
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[112]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: ESENT
+  Date: 2013-03-06T11:31:02.000
+  Event ID: 100
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+wuauclt (1916) The database engine 5.01.2600.2180 started.
+
+Event[113]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: ESENT
+  Date: 2013-03-06T11:31:02.000
+  Event ID: 102
+  Task: General
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+wuaueng.dll (1916) SUS20ClientDataStore: The database engine (%5.%6.%7.%8) started a new instance (%4).
+
+Event[114]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: ESENT
+  Date: 2013-03-06T11:31:02.000
+  Event ID: 300
+  Task: Logging/Recovery
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+wuaueng.dll (1916) SUS20ClientDataStore: The database engine is initiating recovery steps.
+
+Event[115]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: ESENT
+  Date: 2013-03-06T11:31:02.000
+  Event ID: 301
+  Task: Logging/Recovery
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+wuaueng.dll (1916) SUS20ClientDataStore: The database engine has begun replaying logfile C:\WINDOWS\SoftwareDistribution\DataStore\Logs\edb.log.
+
+Event[116]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: ESENT
+  Date: 2013-03-06T11:31:02.000
+  Event ID: 302
+  Task: Logging/Recovery
+  Level: Information
+  Opcode: Info
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+wuaueng.dll (1916) SUS20ClientDataStore: The database engine has successfully completed recovery steps.
+
+Event[117]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: LoadPerf
+  Date: 2013-03-06T11:31:28.000
+  Event ID: 1001
+  Task: None
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+
+Event[118]:
+  Log Name: C:\Users\sshook\Desktop\Training\Tools\Riffle\RiffleMaster\Extracted\2016-03-14_124238\logs\evt\XP-FF3F6B62E8AB_Application.evt
+  Source: LoadPerf
+  Date: 2013-03-06T11:31:28.000
+  Event ID: 1000
+  Task: None
+  Level: Information
+  Opcode: N/A
+  Keyword: Classic
+  User: N/A
+  User Name: N/A
+  Computer: XP-FF3F6B62E8AB
+  Description: 
+N/A
+

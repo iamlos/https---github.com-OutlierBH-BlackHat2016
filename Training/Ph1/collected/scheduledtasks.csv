@@ -1,0 +1,54 @@
+﻿SSHOOK-PC,"/Adobe Acrobat Update Task","C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\AdobeARM.exe",4eaf6f8f0b3be33a0e3877eb7ffd48d4
+SSHOOK-PC,"/Adobe Flash Player Updater","C:\Windows\SysWOW64\Macromed\Flash\FlashPlayerUpdateService.exe",99b993bd0f4c033d832b50d5e83bebec
+SSHOOK-PC,"/doPDF Update","C:\Program Files\Softland\novaPDF 8\Driver\UpdateApplication.exe",4c01b046885ac867a72dc14580e3c158
+SSHOOK-PC,"/G2MUpdateTask-S-1-5-21-3657353246-2519624114-1185704818-1196","C:\Users\sshook\AppData\Local\Citrix\GoToMeeting\4628\g2mupdate.exe",d8d4ef64a5d8913e3e617edc6bbccea6
+SSHOOK-PC,"/G2MUploadTask-S-1-5-21-3657353246-2519624114-1185704818-1196","C:\Users\sshook\AppData\Local\Citrix\GoToMeeting\4628\g2mupload.exe",d8d4ef64a5d8913e3e617edc6bbccea6
+SSHOOK-PC,"/GoogleUpdateTaskMachineCore","C:\Program Files (x86)\Google\Update\GoogleUpdate.exe",dd7423abbe2913e70d50e9318ad57ee4
+SSHOOK-PC,"/GoogleUpdateTaskMachineCore","C:\Program Files (x86)\Google\Update\GoogleUpdate.exe",dd7423abbe2913e70d50e9318ad57ee4
+SSHOOK-PC,"/GoogleUpdateTaskMachineUA","C:\Program Files (x86)\Google\Update\GoogleUpdate.exe",dd7423abbe2913e70d50e9318ad57ee4
+SSHOOK-PC,"/GoogleUpdateTaskUserS-1-5-21-3657353246-2519624114-1185704818-1196Core","C:\Users\sshook\AppData\Local\Google\Update\GoogleUpdate.exe",dd7423abbe2913e70d50e9318ad57ee4
+SSHOOK-PC,"/GoogleUpdateTaskUserS-1-5-21-3657353246-2519624114-1185704818-1196UA","C:\Users\sshook\AppData\Local\Google\Update\GoogleUpdate.exe",dd7423abbe2913e70d50e9318ad57ee4
+SSHOOK-PC,"/IUM-F1E24CA0-B63E-4F13-A9E3-4ADE3BFF3473","C:\Program Files (x86)\Intel\Intel(R) Update Manager\bin\iumsvc.exe",16b5b394028d8ed80a569123a38dc4f7
+SSHOOK-PC,"/IUM-F1E24CA0-B63E-4F13-A9E3-4ADE3BFF3473-Logon","C:\Program Files (x86)\Intel\Intel(R) Update Manager\bin\iumsvc.exe",16b5b394028d8ed80a569123a38dc4f7
+SSHOOK-PC,"/MySQLNotifierTask","C:\Program Files (x86)\MySQL\MySQL Notifier 1.1\MySQLNotifier.exe",981fe670a8d36e9f43a74fae1218f080
+SSHOOK-PC,"/Samsung_PSSD_Registration","C:\ProgramData\Samsung Apps\Portable SSD\Samsung Portable SSD Daemon.exe",3266b65caabd34e44fb1769722c2f7da
+SSHOOK-PC,"/Microsoft/Microsoft Antimalware/Microsoft Antimalware Scheduled Scan","c:\Program Files\Microsoft Security Client\MpCmdRun.exe",43afcb36922169e149e69ce70fcddbf2
+SSHOOK-PC,"/Microsoft/Office/Office Automatic Updates","C:\Program Files\Microsoft Office 15\ClientX64\OfficeC2RClient.exe",f1706f56d83fdfb8c19290559ad9b924
+SSHOOK-PC,"/Microsoft/Office/Office Automatic Updates","C:\Program Files\Microsoft Office 15\ClientX64\OfficeC2RClient.exe",f1706f56d83fdfb8c19290559ad9b924
+SSHOOK-PC,"/Microsoft/Office/Office ClickToRun Service Monitor","C:\Program Files\Microsoft Office 15\ClientX64\OfficeC2RClient.exe",f1706f56d83fdfb8c19290559ad9b924
+SSHOOK-PC,"/Microsoft/Office/Office Subscription Maintenance","C:\Program Files\Microsoft Office 15\root\vfs\ProgramFilesCommonx86\Microsoft Shared\OFFICE15\OLicenseHeartbeat.exe",86476286ae02b377cf581145858aa850
+SSHOOK-PC,"/Microsoft/Windows/AppID/PolicyConverter","C:\Windows\system32\appidpolicyconverter.exe",589852b65c91f574e980abdb8205080a
+SSHOOK-PC,"/Microsoft/Windows/AppID/VerifiedPublisherCertStoreCheck","C:\Windows\system32\appidcertstorecheck.exe",ea285b947ee48103697cda53d76c9eec
+SSHOOK-PC,"/Microsoft/Windows/Customer Experience Improvement Program/Consolidator","C:\Windows\System32\wsqmcons.exe",8fafca21fe9b20c420ce9d4dc50a7169
+SSHOOK-PC,"/Microsoft/Windows/Defrag/ScheduledDefrag","C:\Windows\system32\defrag.exe",8fd0ec6eb52f9efe15b7a605c827932c
+SSHOOK-PC,"/Microsoft/Windows/DiskDiagnostic/Microsoft-Windows-DiskDiagnosticResolver","C:\Windows\system32\DFDWiz.exe",4a3bd2bb1b55c39ab71ef4c9b9dce815
+SSHOOK-PC,"/Microsoft/Windows/Location/Notifications","C:\Windows\System32\LocationNotifications.exe",5bcad88996f349c6f4f8ea78fb5b2096
+SSHOOK-PC,"/Microsoft/Windows/Media Center/ActivateWindowsSearch","C:\Windows\ehome\ehPrivJob.exe",c07d5582f2107acab4564e1dae977c64
+SSHOOK-PC,"/Microsoft/Windows/Media Center/ConfigureInternetTimeService","C:\Windows\ehome\ehPrivJob.exe",c07d5582f2107acab4564e1dae977c64
+SSHOOK-PC,"/Microsoft/Windows/Media Center/DispatchRecoveryTasks","C:\Windows\ehome\ehPrivJob.exe",c07d5582f2107acab4564e1dae977c64
+SSHOOK-PC,"/Microsoft/Windows/Media Center/ehDRMInit","C:\Windows\ehome\ehPrivJob.exe",c07d5582f2107acab4564e1dae977c64
+SSHOOK-PC,"/Microsoft/Windows/Media Center/InstallPlayReady","C:\Windows\ehome\ehPrivJob.exe",c07d5582f2107acab4564e1dae977c64
+SSHOOK-PC,"/Microsoft/Windows/Media Center/OCURActivate","C:\Windows\ehome\ehPrivJob.exe",c07d5582f2107acab4564e1dae977c64
+SSHOOK-PC,"/Microsoft/Windows/Media Center/OCURDiscovery","C:\Windows\ehome\ehPrivJob.exe",c07d5582f2107acab4564e1dae977c64
+SSHOOK-PC,"/Microsoft/Windows/Media Center/PBDADiscovery","C:\Windows\ehome\ehPrivJob.exe",c07d5582f2107acab4564e1dae977c64
+SSHOOK-PC,"/Microsoft/Windows/Media Center/PBDADiscoveryW1","C:\Windows\ehome\ehPrivJob.exe",c07d5582f2107acab4564e1dae977c64
+SSHOOK-PC,"/Microsoft/Windows/Media Center/PBDADiscoveryW2","C:\Windows\ehome\ehPrivJob.exe",c07d5582f2107acab4564e1dae977c64
+SSHOOK-PC,"/Microsoft/Windows/Media Center/PeriodicScanRetry","C:\Windows\ehome\MCUpdate.exe",073c37cefeb4d5cd86646171c5d999f2
+SSHOOK-PC,"/Microsoft/Windows/Media Center/RegisterSearch","C:\Windows\ehome\ehPrivJob.exe",c07d5582f2107acab4564e1dae977c64
+SSHOOK-PC,"/Microsoft/Windows/Media Center/ReindexSearchRoot","C:\Windows\ehome\ehPrivJob.exe",c07d5582f2107acab4564e1dae977c64
+SSHOOK-PC,"/Microsoft/Windows/Media Center/UpdateRecordPath","C:\Windows\ehome\ehPrivJob.exe",c07d5582f2107acab4564e1dae977c64
+SSHOOK-PC,"/Microsoft/Windows/MUI/LPRemove","C:\Windows\system32\lpremove.exe",e3f30c809b0e3c34588bd336d8090cd2
+SSHOOK-PC,"/Microsoft/Windows/NetTrace/GatherNetworkInfo","C:\Windows\system32\gatherNetworkInfo.vbs",2ae808cb0d9a667b0cf41ea74b3b9bac
+SSHOOK-PC,"/Microsoft/Windows/Power Efficiency Diagnostics/AnalyzeSystem","C:\Windows\System32\powercfg.exe",f779ee89cd1f679c91ab8848c978f086
+SSHOOK-PC,"/Microsoft/Windows/RemoteAssistance/RemoteAssistanceTask","C:\Windows\system32\RAServer.exe",cd0bc0b6b8d219808aea3ecd4e889b19
+SSHOOK-PC,"/Microsoft/Windows/RemoteAssistance/RemoteAssistanceTask","C:\Windows\system32\RAServer.exe",cd0bc0b6b8d219808aea3ecd4e889b19
+SSHOOK-PC,"/Microsoft/Windows/TabletPC/InputPersonalization","C:\Program Files\Common Files\Microsoft Shared\Ink\InputPersonalization.exe",c7de4414d5f6f9373f913cb86262d512
+SSHOOK-PC,"/Microsoft/Windows/TabletPC/InputPersonalization","C:\Program Files\Common Files\Microsoft Shared\Ink\InputPersonalization.exe",c7de4414d5f6f9373f913cb86262d512
+SSHOOK-PC,"/Microsoft/Windows/Time Synchronization/SynchronizeTime","C:\Windows\system32\sc.exe",4ebbc2b0ad7f9075ae9d6835d2a62b6e
+SSHOOK-PC,"/Microsoft/Windows/Windows Activation Technologies/ValidationTask","C:\Windows\system32\Wat\WatAdminSvc.exe",3cec96de223e49eaae3651fcf8faea6c
+SSHOOK-PC,"/Microsoft/Windows/Windows Activation Technologies/ValidationTaskDeadline","C:\Windows\system32\schtasks.exe",97e0ec3d6d99e8cc2b17ef2d3760e8fc
+SSHOOK-PC,"/Microsoft/Windows/Windows Error Reporting/QueueReporting","C:\Windows\system32\wermgr.exe",41df7355a5a907e2c1d7804ec028965d
+SSHOOK-PC,"/Microsoft/Windows/Windows Media Sharing/UpdateLibrary","C:\Program Files\Windows Media Player\wmpnscfg.exe",6699a112a3bdc9b52338512894eba9d6
+SSHOOK-PC,"/Microsoft/Windows/WindowsBackup/ConfigNotification","C:\Windows\System32\sdclt.exe",cdebd55ffbda3889aa2a8ce52b9dc097
+SSHOOK-PC,"/MySQL/Installer/ManifestUpdate","c:\program files (x86)\mysql\mysql installer for windows\mysqlinstallerconsole.exe",919ac2e8905dce7b3023ab9824b888e3
+SSHOOK-PC,"/OfficeSoftwareProtectionPlatform/SvcRestartTask","C:\Windows\system32\sc.exe",4ebbc2b0ad7f9075ae9d6835d2a62b6e

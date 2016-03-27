@@ -1,0 +1,282 @@
+
+
+Windows IP Configuration
+
+
+
+         dns1.name-services.com
+
+         ----------------------------------------
+
+         Record Name . . . . . : dns1.name-services.com
+
+         Record Type . . . . . : 1
+
+         Time To Live  . . . . : 1
+
+         Data Length . . . . . : 4
+
+         Section . . . . . . . : Answer
+
+         A (Host) Record . . . : 98.124.192.1
+
+
+
+
+
+         1.0.0.127.in-addr.arpa
+
+         ----------------------------------------
+
+         Record Name . . . . . : 1.0.0.127.in-addr.arpa.
+
+         Record Type . . . . . : 12
+
+         Time To Live  . . . . : 604661
+
+         Data Length . . . . . : 4
+
+         Section . . . . . . . : Answer
+
+         PTR Record  . . . . . : localhost
+
+
+
+
+
+         Record Name . . . . . : 1.0.0.127.in-addr.arpa.
+
+         Record Type . . . . . : 12
+
+         Time To Live  . . . . : 604661
+
+         Data Length . . . . . : 4
+
+         Section . . . . . . . : Answer
+
+         PTR Record  . . . . . : my.test.com
+
+
+
+
+
+         dns3.name-services.com
+
+         ----------------------------------------
+
+         Record Name . . . . . : dns3.name-services.com
+
+         Record Type . . . . . : 1
+
+         Time To Live  . . . . : 1
+
+         Data Length . . . . . : 4
+
+         Section . . . . . . . : Answer
+
+         A (Host) Record . . . : 98.124.193.1
+
+
+
+
+
+         dns5.name-services.com
+
+         ----------------------------------------
+
+         Record Name . . . . . : dns5.name-services.com
+
+         Record Type . . . . . : 1
+
+         Time To Live  . . . . : 1
+
+         Data Length . . . . . : 4
+
+         Section . . . . . . . : Answer
+
+         A (Host) Record . . . : 98.124.196.1
+
+
+
+
+
+         dns2.name-services.com
+
+         ----------------------------------------
+
+         Record Name . . . . . : dns2.name-services.com
+
+         Record Type . . . . . : 1
+
+         Time To Live  . . . . : 1
+
+         Data Length . . . . . : 4
+
+         Section . . . . . . . : Answer
+
+         A (Host) Record . . . : 98.124.197.1
+
+
+
+
+
+         my.test.com
+
+         ----------------------------------------
+
+         Record Name . . . . . : my.test.com
+
+         Record Type . . . . . : 1
+
+         Time To Live  . . . . : 604661
+
+         Data Length . . . . . : 4
+
+         Section . . . . . . . : Answer
+
+         A (Host) Record . . . : 127.0.0.1
+
+
+
+
+
+         memberd.booksonlineclub.com
+
+         ----------------------------------------
+
+         Record Name . . . . . : memberd.booksonlineclub.com
+
+         Record Type . . . . . : 1
+
+         Time To Live  . . . . : 1
+
+         Data Length . . . . . : 4
+
+         Section . . . . . . . : Answer
+
+         A (Host) Record . . . : 122.201.74.187
+
+
+
+
+
+         Record Name . . . . . : dns1.name-services.com
+
+         Record Type . . . . . : 1
+
+         Time To Live  . . . . : 1
+
+         Data Length . . . . . : 4
+
+         Section . . . . . . . : Additional
+
+         A (Host) Record . . . : 98.124.192.1
+
+
+
+
+
+         Record Name . . . . . : dns2.name-services.com
+
+         Record Type . . . . . : 1
+
+         Time To Live  . . . . : 1
+
+         Data Length . . . . . : 4
+
+         Section . . . . . . . : Additional
+
+         A (Host) Record . . . : 98.124.197.1
+
+
+
+
+
+         Record Name . . . . . : dns3.name-services.com
+
+         Record Type . . . . . : 1
+
+         Time To Live  . . . . : 1
+
+         Data Length . . . . . : 4
+
+         Section . . . . . . . : Additional
+
+         A (Host) Record . . . : 98.124.193.1
+
+
+
+
+
+         Record Name . . . . . : dns4.name-services.com
+
+         Record Type . . . . . : 1
+
+         Time To Live  . . . . : 1
+
+         Data Length . . . . . : 4
+
+         Section . . . . . . . : Additional
+
+         A (Host) Record . . . : 98.124.194.1
+
+
+
+
+
+         Record Name . . . . . : dns5.name-services.com
+
+         Record Type . . . . . : 1
+
+         Time To Live  . . . . : 1
+
+         Data Length . . . . . : 4
+
+         Section . . . . . . . : Additional
+
+         A (Host) Record . . . : 98.124.196.1
+
+
+
+
+
+         dns4.name-services.com
+
+         ----------------------------------------
+
+         Record Name . . . . . : dns4.name-services.com
+
+         Record Type . . . . . : 1
+
+         Time To Live  . . . . : 1
+
+         Data Length . . . . . : 4
+
+         Section . . . . . . . : Answer
+
+         A (Host) Record . . . : 98.124.194.1
+
+
+
+
+
+         localhost
+
+         ----------------------------------------
+
+         Record Name . . . . . : localhost
+
+         Record Type . . . . . : 1
+
+         Time To Live  . . . . : 604661
+
+         Data Length . . . . . : 4
+
+         Section . . . . . . . : Answer
+
+         A (Host) Record . . . : 127.0.0.1
+
+
+
+
+

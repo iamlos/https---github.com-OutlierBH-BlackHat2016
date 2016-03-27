@@ -1,0 +1,85 @@
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State           PID
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING       924
+  c:\windows\system32\WS2_32.dll
+  C:\WINDOWS\system32\RPCRT4.dll
+  c:\windows\system32\rpcss.dll
+  C:\WINDOWS\system32\svchost.exe
+  C:\WINDOWS\system32\ADVAPI32.dll
+  [svchost.exe]
+
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING       4
+  [System]
+
+  TCP    127.0.0.1:1032         0.0.0.0:0              LISTENING       1176
+  [alg.exe]
+
+  TCP    192.168.61.128:139     0.0.0.0:0              LISTENING       4
+  [System]
+
+  TCP    192.168.61.128:1042    192.168.61.1:139       TIME_WAIT       0
+  UDP    0.0.0.0:1026           *:*                                    1076
+  C:\WINDOWS\system32\mswsock.dll
+  c:\windows\system32\WS2_32.dll
+  c:\windows\system32\DNSAPI.dll
+  c:\windows\system32\dnsrslvr.dll
+  C:\WINDOWS\system32\RPCRT4.dll
+  [svchost.exe]
+
+  UDP    0.0.0.0:445            *:*                                    4
+  [System]
+
+  UDP    127.0.0.1:123          *:*                                    1020
+  c:\windows\system32\WS2_32.dll
+  c:\windows\system32\w32time.dll
+  ntdll.dll
+  C:\WINDOWS\system32\kernel32.dll
+  [svchost.exe]
+
+  UDP    127.0.0.1:1900         *:*                                    1248
+  c:\windows\system32\WS2_32.dll
+  c:\windows\system32\ssdpsrv.dll
+  C:\WINDOWS\system32\ADVAPI32.dll
+  C:\WINDOWS\system32\kernel32.dll
+  [svchost.exe]
+
+  UDP    192.168.61.128:1900    *:*                                    1248
+  c:\windows\system32\WS2_32.dll
+  c:\windows\system32\ssdpsrv.dll
+  C:\WINDOWS\system32\ADVAPI32.dll
+  C:\WINDOWS\system32\kernel32.dll
+  [svchost.exe]
+
+  UDP    192.168.61.128:123     *:*                                    1020
+  c:\windows\system32\WS2_32.dll
+  c:\windows\system32\w32time.dll
+  ntdll.dll
+  -- unknown component(s) --
+  [svchost.exe]
+
+  UDP    192.168.61.128:138     *:*                                    4
+  [System]
+
+  UDP    192.168.61.128:137     *:*                                    4
+  [System]
+
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:1032         0.0.0.0:0              LISTENING
+  TCP    192.168.61.128:139     0.0.0.0:0              LISTENING
+  TCP    192.168.61.128:1042    192.168.61.1:139       TIME_WAIT
+  TCP    192.168.61.128:1058    134.146.82.25:53       SYN_SENT
+  UDP    0.0.0.0:445            *:*                    
+  UDP    0.0.0.0:1026           *:*                    
+  UDP    127.0.0.1:123          *:*                    
+  UDP    127.0.0.1:1900         *:*                    
+  UDP    192.168.61.128:123     *:*                    
+  UDP    192.168.61.128:137     *:*                    
+  UDP    192.168.61.128:138     *:*                    
+  UDP    192.168.61.128:1900    *:*                    

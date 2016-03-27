@@ -1,0 +1,7 @@
+1.	Unpack your Riffle data to a folder
+2.	Open a command prompt and type the following:
+a.	SUBST H: C:\client\Extracted
+i.	The SUBST command mounts the given folder, in this case “C:\cases\casename\Extracted” to a logical drive of your choice. (I chose “H:”).
+3.	Run you L2TL command in command prompt “log2timeline.pl -z PST8PDT -f win7 -r -p -w C:\cases\casename\clientname_riffle_data_timeline.csv H:\”
+4.	SUBST /D H:
+
